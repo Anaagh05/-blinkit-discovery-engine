@@ -3019,6 +3019,6 @@ window.DISCOVERY_DATA = {
         "warning": "Slightly skews more negative than other platforms."
       }
     ],
-    "methodology": "Holistic LLM clustering via Gemini 1.5 Pro using massive context window for global theme extraction."
+    "methodology": "A custom data ingestion pipeline utilized Python scrapers and API integrations to aggregate 2,300+ raw reviews across 6 platforms (App Store, Play Store, Reddit, Twitter, Facebook, Quora). The unstructured data was cleaned, normalized, and batched into Google's Gemini 1.5 Pro via API using a massive context window for zero-shot theme clustering and sentiment extraction."
   }
 };
