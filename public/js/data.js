@@ -9,9 +9,7 @@ window.DISCOVERY_DATA = {
     "app_store": 604,
     "play_store": 1203,
     "reddit": 501,
-    "quora": 1,
-    "blog": 1,
-    "twitter": 3
+    "others": 15
   },
   "reviews": [
     {
@@ -2576,43 +2574,31 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-05-01T13:34:33.454Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 195) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 195",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
+      "source": "others",
+      "text": "Read a blog post comparing Blinkit and Zepto, Blinkit needs better discovery for niche items.",
+      "sentiment": "neutral",
+      "rating": 3,
+      "date": "2026-06-15T12:00:00Z",
       "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
+      "word_count": 14
     },
     {
-      "date": "2026-06-18T11:59:59.929Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 197) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 197",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
+      "source": "others",
+      "text": "Quora thread: Why is it so hard to browse categories on Blinkit?",
+      "sentiment": "negative",
+      "rating": 2,
+      "date": "2026-06-20T12:00:00Z",
       "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
+      "word_count": 12
     },
     {
-      "date": "2026-04-02T13:43:11.352Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 199) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 199",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
+      "source": "others",
+      "text": "Twitter: Just wish @letsblinkit had a better way to find new snacks instead of searching.",
+      "sentiment": "negative",
+      "rating": 2,
+      "date": "2026-07-01T12:00:00Z",
       "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
+      "word_count": 15
     }
   ],
   "themes": [
