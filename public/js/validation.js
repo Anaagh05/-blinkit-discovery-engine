@@ -9,19 +9,23 @@ document.addEventListener('DOMContentLoaded', () => {
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 2rem;">
                 <div style="background: var(--surface); padding: 1.5rem; border-radius: 8px; border: 1px solid var(--border); text-align: center;">
                     <h3 style="font-size: 2rem; color: var(--primary); margin: 0 0 0.5rem 0;">${validation.total_reviews_analyzed}</h3>
-                    <p style="margin: 0; color: var(--text-secondary);">Total Reviews Analyzed</p>
+                    <p style="margin: 0; color: var(--text-primary); font-weight: 600;">Total Reviews Analyzed</p>
+                    <p style="margin: 0.5rem 0 0 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.4;">The raw volume of user feedback processed across all integrated sources.</p>
                 </div>
                 <div style="background: var(--surface); padding: 1.5rem; border-radius: 8px; border: 1px solid var(--border); text-align: center;">
                     <h3 style="font-size: 2rem; color: var(--accent); margin: 0 0 0.5rem 0;">${(validation.cross_source_agreement * 100).toFixed(1)}%</h3>
-                    <p style="margin: 0; color: var(--text-secondary);">Cross-Source Agreement</p>
+                    <p style="margin: 0; color: var(--text-primary); font-weight: 600;">Cross-Source Agreement</p>
+                    <p style="margin: 0.5rem 0 0 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.4;">The percentage of identified themes that appeared consistently across multiple different platforms.</p>
                 </div>
                 <div style="background: var(--surface); padding: 1.5rem; border-radius: 8px; border: 1px solid var(--border); text-align: center;">
                     <h3 style="font-size: 2rem; color: var(--positive); margin: 0 0 0.5rem 0;">${(validation.spot_check_accuracy * 100).toFixed(1)}%</h3>
-                    <p style="margin: 0; color: var(--text-secondary);">Spot-Check Accuracy</p>
+                    <p style="margin: 0; color: var(--text-primary); font-weight: 600;">Spot-Check Accuracy</p>
+                    <p style="margin: 0.5rem 0 0 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.4;">How often the AI's sentiment and category tagging matched human ground-truth labels during testing.</p>
                 </div>
                 <div style="background: var(--surface); padding: 1.5rem; border-radius: 8px; border: 1px solid var(--border); text-align: center;">
                     <h3 style="font-size: 2rem; color: var(--text-primary); margin: 0 0 0.5rem 0;">${validation.themes_validated}</h3>
-                    <p style="margin: 0; color: var(--text-secondary);">Themes Validated</p>
+                    <p style="margin: 0; color: var(--text-primary); font-weight: 600;">Themes Validated</p>
+                    <p style="margin: 0.5rem 0 0 0; color: var(--text-secondary); font-size: 0.8rem; line-height: 1.4;">The final number of core behavioral patterns that passed our statistical significance thresholds.</p>
                 </div>
             </div>
 
