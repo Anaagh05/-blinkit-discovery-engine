@@ -9,7 +9,7 @@ window.DISCOVERY_DATA = {
     "app_store": 604,
     "play_store": 1203,
     "reddit": 501,
-    "others": 0,
+    "others": 55,
     "facebook": 45,
     "instagram": 82
   },
