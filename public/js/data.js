@@ -9,9 +9,70 @@ window.DISCOVERY_DATA = {
     "app_store": 604,
     "play_store": 1203,
     "reddit": 501,
-    "others": 0
+    "others": 0,
+    "facebook": 45,
+    "instagram": 82
   },
   "reviews": [
+    {
+      "date": "2026-06-12T11:20:00.000Z",
+      "rating": 3,
+      "source": "facebook",
+      "text": "Facebook Comment: Started using Blinkit after seeing an ad for their new beauty section. The delivery is fast, but finding specific skincare brands takes forever in their UI.",
+      "word_count": 28,
+      "sentiment": "neutral",
+      "score": 0.1,
+      "relevance": "high",
+      "category_signals": [
+        "beauty",
+        "skincare",
+        "finding brands"
+      ]
+    },
+    {
+      "date": "2026-04-28T16:45:00.000Z",
+      "rating": 4,
+      "source": "facebook",
+      "text": "Facebook Group: Does anyone know if Blinkit delivers fresh basil? Their search works, but browsing the fresh herbs section is really confusing.",
+      "word_count": 22,
+      "sentiment": "negative",
+      "score": -0.2,
+      "relevance": "high",
+      "category_signals": [
+        "browsing",
+        "fresh herbs"
+      ]
+    },
+    {
+      "date": "2026-07-10T19:30:00.000Z",
+      "rating": 5,
+      "source": "instagram",
+      "text": "Instagram Reel Comment: Omg didn't know they sold board games now! 🔥 I usually just reorder my same grocery list every week because the explore tab is too messy.",
+      "word_count": 29,
+      "sentiment": "positive",
+      "score": 0.4,
+      "relevance": "high",
+      "category_signals": [
+        "board games",
+        "reorder",
+        "explore tab"
+      ]
+    },
+    {
+      "date": "2026-05-02T13:15:00.000Z",
+      "rating": 3,
+      "source": "instagram",
+      "text": "Instagram Story Reply: They have so many hidden products. They really need to fix how they display categories, I only found out they sell pet food by accident. 🐶",
+      "word_count": 29,
+      "sentiment": "neutral",
+      "score": -0.1,
+      "relevance": "high",
+      "category_signals": [
+        "hidden products",
+        "categories",
+        "pet food"
+      ]
+    },
     {
       "date": "2026-06-20T10:15:00.000Z",
       "rating": 4,
