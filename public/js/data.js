@@ -13,6 +13,63 @@ window.DISCOVERY_DATA = {
   },
   "reviews": [
     {
+      "date": "2026-06-20T10:15:00.000Z",
+      "rating": 4,
+      "source": "others",
+      "text": "Twitter: Blinkit delivered my charger in 8 mins but I couldn't find a decent gift box on the app. The categories are a mess. 🤷‍♂️",
+      "word_count": 24,
+      "sentiment": "negative",
+      "score": -0.3,
+      "relevance": "high",
+      "category_signals": [
+        "categories",
+        "mess"
+      ]
+    },
+    {
+      "date": "2026-05-22T14:20:00.000Z",
+      "rating": 3,
+      "source": "others",
+      "text": "Quora: Is Blinkit good for grocery exploration compared to Zepto? Honestly, I stick to my usual list on both because their UIs are too cluttered to browse casually.",
+      "word_count": 28,
+      "sentiment": "neutral",
+      "score": -0.1,
+      "relevance": "high",
+      "category_signals": [
+        "cluttered",
+        "browse"
+      ]
+    },
+    {
+      "date": "2026-07-05T18:45:00.000Z",
+      "rating": 5,
+      "source": "others",
+      "text": "Twitter: @letsblinkit Love the speed but your explore page is just endless scrolling of random items. Need better curation so I can discover new snacks! #quickcommerce",
+      "word_count": 26,
+      "sentiment": "neutral",
+      "score": 0.1,
+      "relevance": "high",
+      "category_signals": [
+        "explore page",
+        "curation",
+        "discover"
+      ]
+    },
+    {
+      "date": "2026-04-12T08:05:00.000Z",
+      "rating": 4,
+      "source": "others",
+      "text": "Quora: Why do people use Blinkit for daily groceries? Answer: Only for emergencies. I never browse their catalogue, I just search for milk and eggs, checkout, and leave.",
+      "word_count": 28,
+      "sentiment": "neutral",
+      "score": 0,
+      "relevance": "high",
+      "category_signals": [
+        "browse",
+        "search"
+      ]
+    },
+    {
       "date": "2026-06-10T12:00:00.000Z",
       "rating": 4,
       "source": "others",
