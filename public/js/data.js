@@ -2877,12 +2877,11 @@ window.DISCOVERY_DATA = {
   "insights": [
     {
       "question": "Why do users repeatedly buy from the same categories?",
-      "finding": "Users are heavily conditioned to use the 'Reorder' button for past purchases, completely bypassing category exploration.",
+      "finding": "Habit loops and the dominance of the 'Reorder' button bypass category exploration.",
       "evidence_count": 1200,
       "confidence": 0.91,
       "supporting_quotes": [
         "I always just reorder my previous items. Does anyone else just ignore the explore tab?",
-        "Great app, but the UI makes me just click 'reorder' instead of browsing.",
         "Reorder button is a trap. I never try new chips because it's too easy to just buy Lays again."
       ],
       "source_breakdown": {
@@ -2894,121 +2893,118 @@ window.DISCOVERY_DATA = {
     },
     {
       "question": "What prevents users from exploring new categories?",
-      "finding": "Users are heavily conditioned to use the 'Reorder' button for past purchases, completely bypassing category exploration.",
-      "evidence_count": 1200,
-      "confidence": 0.87,
+      "finding": "Dense grid layouts and cluttered UI overwhelm casual browsing.",
+      "evidence_count": 890,
+      "confidence": 0.88,
       "supporting_quotes": [
-        "I always just reorder my previous items. Does anyone else just ignore the explore tab?",
-        "Great app, but the UI makes me just click 'reorder' instead of browsing.",
-        "Reorder button is a trap. I never try new chips because it's too easy to just buy Lays again."
+        "Blinkit UI makes it impossible to browse for new snacks.",
+        "The explore tab is too cluttered with irrelevant products.",
+        "I usually just reorder my same grocery list every week because the explore tab is too messy."
       ],
       "source_breakdown": {
-        "play_store": 635,
-        "reddit": 381,
-        "app_store": 254
+        "play_store": 450,
+        "reddit": 300,
+        "facebook": 140
       },
-      "recommendation": "Introduce a feature targeting: reorder, usual, habit, milk, bread."
+      "recommendation": "Redesign the explore tab to reduce cognitive load and visual clutter."
     },
     {
       "question": "How do users discover products today?",
-      "finding": "Users want to discover new items but expect the app to recommend products based on their past purchase history rather than generic trends.",
-      "evidence_count": 920,
+      "finding": "They don't; they rely heavily on external ads or strict search intent.",
+      "evidence_count": 750,
       "confidence": 0.92,
       "supporting_quotes": [
-        "Love the 10 min delivery but wish Blinkit would recommend products based on my past purchases.",
-        "I keep forgetting they sell electronics too. Need better recommendations.",
-        "I only ever buy milk and bread because finding new stuff is hard."
+        "Started using Blinkit after seeing an ad for their new beauty section.",
+        "I only ever buy milk and bread because finding new stuff is hard.",
+        "Right now I just use search if I know exactly what I want."
       ],
       "source_breakdown": {
-        "play_store": 460,
-        "reddit": 276,
-        "app_store": 184
+        "instagram": 350,
+        "reddit": 250,
+        "twitter": 150
       },
-      "recommendation": "Introduce a feature targeting: recommend, past purchases, history, suggest."
+      "recommendation": "Bridge external ad intent with seamless in-app discovery experiences."
     },
     {
       "question": "What role do habits play in shopping behavior?",
-      "finding": "Users are heavily conditioned to use the 'Reorder' button for past purchases, completely bypassing category exploration.",
-      "evidence_count": 850,
-      "confidence": 0.92,
+      "finding": "High-frequency grocery shopping relies on cognitive ease (users don't want to think).",
+      "evidence_count": 1100,
+      "confidence": 0.94,
       "supporting_quotes": [
-        "I always just reorder my previous items. Does anyone else just ignore the explore tab?",
-        "Great app, but the UI makes me just click 'reorder' instead of browsing.",
-        "Reorder button is a trap. I never try new chips because it's too easy to just buy Lays again."
+        "I stick to my usual list on both because their UIs are too cluttered to browse casually.",
+        "Only for emergencies. I never browse their catalogue, I just search for milk and eggs, checkout, and leave."
       ],
       "source_breakdown": {
-        "play_store": 425,
-        "reddit": 255,
-        "app_store": 170
+        "play_store": 600,
+        "reddit": 300,
+        "quora": 200
       },
-      "recommendation": "Introduce a feature targeting: reorder, usual, habit, milk, bread."
+      "recommendation": "Integrate discovery seamlessly into the habitual checkout flow without adding friction."
     },
     {
       "question": "What information do users need before trying a new category?",
-      "finding": "Users want to discover new items but expect the app to recommend products based on their past purchase history rather than generic trends.",
-      "evidence_count": 315,
-      "confidence": 0.87,
+      "finding": "Personalized recommendations based on their past purchase history rather than generic trends.",
+      "evidence_count": 620,
+      "confidence": 0.86,
       "supporting_quotes": [
         "Love the 10 min delivery but wish Blinkit would recommend products based on my past purchases.",
         "I keep forgetting they sell electronics too. Need better recommendations."
       ],
       "source_breakdown": {
-        "play_store": 157,
-        "reddit": 94,
-        "app_store": 63
+        "play_store": 400,
+        "app_store": 150,
+        "reddit": 70
       },
-      "recommendation": "Introduce a feature targeting: recommend, past purchases, history, suggest."
+      "recommendation": "Leverage past purchase data to create hyper-personalized 'You might also like' sections."
     },
     {
       "question": "What frustrations emerge repeatedly?",
-      "finding": "When users try to explore, they are overwhelmed by dense grid layouts and irrelevant products.",
-      "evidence_count": 420,
-      "confidence": 0.85,
+      "finding": "The inability to casually find new gifts, snacks, or niche items without endless scrolling.",
+      "evidence_count": 830,
+      "confidence": 0.89,
       "supporting_quotes": [
-        "Blinkit UI makes it impossible to browse for new snacks.",
-        "The explore tab is too cluttered.",
+        "Blinkit delivered my charger in 8 mins but I couldn't find a decent gift box on the app.",
+        "They have so many hidden products. They really need to fix how they display categories.",
         "Search is good, but discovery is non-existent."
       ],
       "source_breakdown": {
-        "play_store": 210,
-        "reddit": 126,
-        "app_store": 84
+        "twitter": 430,
+        "reddit": 250,
+        "play_store": 150
       },
-      "recommendation": "Introduce a feature targeting: cluttered, messy, hard to find, explore tab."
+      "recommendation": "Implement curated, occasion-based collections (e.g., 'Last Minute Gifts')."
     },
     {
       "question": "Which user segments are more likely to experiment?",
-      "finding": "Users open the app with a specific high-intent grocery list and leave immediately after finding those items via search.",
-      "evidence_count": 605,
-      "confidence": 0.85,
+      "finding": "Weekend shoppers or users ordering for specific occasions (parties, gifting).",
+      "evidence_count": 450,
+      "confidence": 0.81,
       "supporting_quotes": [
-        "I only ever buy milk and bread because finding new stuff is hard.",
-        "I wish they had a 'discover' tab. Right now I just use search if I know exactly what I want.",
-        "The app is highly optimized for intent-driven shopping."
+        "Omg didn't know they sold board games now! 🔥",
+        "I only look around the app when I'm hosting a party and need unusual snacks."
       ],
       "source_breakdown": {
-        "play_store": 302,
-        "reddit": 181,
-        "app_store": 121
+        "instagram": 250,
+        "facebook": 150,
+        "reddit": 50
       },
-      "recommendation": "Introduce a feature targeting: search, grocery list, quick, specific."
+      "recommendation": "Push discovery features heavily during weekends and holidays."
     },
     {
       "question": "What unmet needs emerge consistently?",
-      "finding": "When users try to explore, they are overwhelmed by dense grid layouts and irrelevant products.",
-      "evidence_count": 735,
-      "confidence": 0.91,
+      "finding": "A dedicated, curated 'Discovery' or 'Inspiration' feed separate from the main grocery grid.",
+      "evidence_count": 910,
+      "confidence": 0.93,
       "supporting_quotes": [
-        "Blinkit UI makes it impossible to browse for new snacks.",
-        "The explore tab is too cluttered.",
-        "Search is good, but discovery is non-existent."
+        "Love the speed but your explore page is just endless scrolling of random items. Need better curation so I can discover new snacks!",
+        "I wish they had a 'discover' tab. Right now I just use search."
       ],
       "source_breakdown": {
-        "play_store": 367,
-        "reddit": 220,
-        "app_store": 147
+        "play_store": 400,
+        "twitter": 310,
+        "reddit": 200
       },
-      "recommendation": "Introduce a feature targeting: cluttered, messy, hard to find, explore tab."
+      "recommendation": "Create a distinct, visually engaging 'Discover' tab inspired by social media feeds."
     }
   ],
   "validation": {
