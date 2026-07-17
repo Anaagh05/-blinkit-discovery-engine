@@ -1,5 +1,5 @@
 // Auto-generated data file for the Discovery Engine Dashboard
-window.DISCOVERY_DATA = {
+const DISCOVERY_DATA = {
   "meta": {
     "totalReviews": 2313,
     "sourcesCount": 6,
@@ -2880,3 +2880,5 @@ window.DISCOVERY_DATA = {
     "methodology": "Holistic LLM clustering via Gemini 1.5 Pro using massive context window for global theme extraction."
   }
 };
+
+console.log(Object.keys(DISCOVERY_DATA));

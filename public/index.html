@@ -22,12 +22,33 @@
 </head>
 <body>
 
-    <!-- Hero / Header -->
-    <header class="hero">
+    <!-- App Header (Blinkit Style) -->
+    <header class="app-header">
+        <div class="container">
+            <div class="header-brand">blink<span>it</span></div>
+            
+            <div class="header-location">
+                <span class="loc-label">Delivery in 10 minutes</span>
+                <span class="loc-value">Bengaluru, Karnataka <i data-lucide="chevron-down" style="width: 14px;"></i></span>
+            </div>
+            
+            <div class="header-search">
+                <i data-lucide="search" style="width: 18px;"></i>
+                <input type="text" placeholder='Search "ice cream"'>
+            </div>
+            
+            <div class="header-cart">
+                <i data-lucide="shopping-cart" style="width: 18px;"></i> My Cart
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero / Intro -->
+    <section class="hero">
         <div class="container">
             <div class="hero-content">
                 <div class="badge">AI-Powered Research Project</div>
-                <h1>Blinkit Discovery Engine</h1>
+                <h1>Discovery Engine</h1>
                 <p>Analyzing thousands of user reviews with Google Gemini to decode why users stick to their habits and how to unlock new product discovery in quick commerce.</p>
             </div>
             
@@ -35,10 +56,10 @@
                 <!-- Populated via JS -->
             </div>
         </div>
-    </header>
+    </section>
 
     <!-- Navigation -->
-    <nav class="sticky-nav">
+    <nav class="in-page-nav">
         <div class="container nav-links">
             <a href="#pipeline"><i data-lucide="git-branch"></i> Pipeline</a>
             <a href="#themes"><i data-lucide="layers"></i> AI Themes</a>

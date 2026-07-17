@@ -532,7 +532,7 @@
   git commit -m "Initial commit: AI-Powered Discovery Engine"
   ```
 
-- [ ] **4.2** Create GitHub repository
+- [x] **4.2** Create GitHub repository
   - Name: `blinkit-discovery-engine` (or similar)
   - Push code to GitHub:
     ```bash
