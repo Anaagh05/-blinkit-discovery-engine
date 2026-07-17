@@ -1,0 +1,24 @@
+[
+  {
+    "id": "comp-01",
+    "source": "reddit",
+    "platform": "Zepto",
+    "author": "u/zepto_fan",
+    "date": "2026-05-10T16:00:00Z",
+    "rating": 5,
+    "title": "Zepto vs Blinkit",
+    "text": "Switched to Zepto because they actually show me new trending snacks that I want to try. Blinkit just shows me my old grocery list.",
+    "url": "https://reddit.com/r/india"
+  },
+  {
+    "id": "comp-02",
+    "source": "play_store",
+    "platform": "Swiggy Instamart",
+    "author": "Neha Sharma",
+    "date": "2026-06-02T12:00:00Z",
+    "rating": 4,
+    "title": "Better Discovery",
+    "text": "Instamart has these nice curated collections like 'Movie Night' which helps me discover new chips and drinks. Blinkit feels too utilitarian.",
+    "url": "https://play.google.com/..."
+  }
+]

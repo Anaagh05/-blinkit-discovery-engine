@@ -1,0 +1,35 @@
+[
+  {
+    "id": "tw-01",
+    "source": "twitter",
+    "platform": "Blinkit",
+    "author": "@shoppersync",
+    "date": "2026-04-12T10:00:00Z",
+    "rating": 3,
+    "title": "",
+    "text": "Blinkit UI makes it impossible to browse for new snacks. I just end up ordering my usual Lays and coke because the explore page is cluttered with things I don't want.",
+    "url": "https://twitter.com/..."
+  },
+  {
+    "id": "tw-02",
+    "source": "twitter",
+    "platform": "Blinkit",
+    "author": "@techy_mum",
+    "date": "2026-05-18T14:30:00Z",
+    "rating": 4,
+    "title": "",
+    "text": "Love the 10 min delivery but wish Blinkit would recommend products based on my past purchases. I never visit the electronics or makeup categories.",
+    "url": "https://twitter.com/..."
+  },
+  {
+    "id": "tw-03",
+    "source": "twitter",
+    "platform": "Blinkit",
+    "author": "@delhi_foodie",
+    "date": "2026-06-21T09:15:00Z",
+    "rating": 2,
+    "title": "",
+    "text": "Trying to find niche ingredients on Blinkit is a pain. The search works, but discovery is zero. You only buy what you already know you need.",
+    "url": "https://twitter.com/..."
+  }
+]

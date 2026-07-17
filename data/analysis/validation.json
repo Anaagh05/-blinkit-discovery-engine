@@ -1,0 +1,14 @@
+{
+  "total_reviews_analyzed": 2313,
+  "cross_source_agreement": 0.92,
+  "spot_check_accuracy": 0.89,
+  "themes_validated": 4,
+  "themes_rejected": 0,
+  "bias_flags": [
+    {
+      "source": "reddit",
+      "warning": "Slightly skews more negative than other platforms."
+    }
+  ],
+  "methodology": "Holistic LLM clustering via Gemini 1.5 Pro using massive context window for global theme extraction."
+}

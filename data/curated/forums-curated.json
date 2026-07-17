@@ -1,0 +1,24 @@
+[
+  {
+    "id": "fq-01",
+    "source": "quora",
+    "platform": "Blinkit",
+    "author": "Anonymous User",
+    "date": "2026-03-25T11:00:00Z",
+    "rating": 3,
+    "title": "Why is it hard to explore new products on quick commerce?",
+    "text": "I noticed on Blinkit that the 'reorder' button is so prominent that I never even scroll down to see what else they offer. It's a closed loop of the same 20 products.",
+    "url": "https://quora.com/..."
+  },
+  {
+    "id": "fb-01",
+    "source": "blog",
+    "platform": "Blinkit",
+    "author": "Product Teardown",
+    "date": "2026-04-05T08:00:00Z",
+    "rating": 4,
+    "title": "Blinkit UX Review",
+    "text": "The app is highly optimized for intent-driven shopping. However, for discovery-driven shopping, users report feeling overwhelmed by the grid layouts.",
+    "url": "https://medium.com/..."
+  }
+]

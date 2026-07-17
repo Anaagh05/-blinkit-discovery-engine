@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blinkit Discovery Engine | AI Analysis Dashboard</title>
+    <meta name="description" content="AI-Powered Discovery Engine analyzing user feedback to understand quick-commerce shopping habits.">
+    
+    <!-- Google Fonts: Inter (Body) & JetBrains Mono (Data) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+
+    <!-- Hero / Header -->
+    <header class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="badge">AI-Powered Research Project</div>
+                <h1>Blinkit Discovery Engine</h1>
+                <p>Analyzing thousands of user reviews with Google Gemini to decode why users stick to their habits and how to unlock new product discovery in quick commerce.</p>
+            </div>
+            
+            <div class="stats-bar" id="statsBar">
+                <!-- Populated via JS -->
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="sticky-nav">
+        <div class="container nav-links">
+            <a href="#pipeline"><i data-lucide="git-branch"></i> Pipeline</a>
+            <a href="#themes"><i data-lucide="layers"></i> AI Themes</a>
+            <a href="#insights"><i data-lucide="lightbulb"></i> Core Insights</a>
+            <a href="#explorer"><i data-lucide="search"></i> Source Explorer</a>
+            <a href="#validation"><i data-lucide="check-circle"></i> Validation</a>
+        </div>
+    </nav>
+
+    <main>
+        <!-- Pipeline Visualization -->
+        <section id="pipeline" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i data-lucide="git-merge"></i> The Pipeline</h2>
+                    <p>How we went from scattered feedback to validated insights in 4 steps.</p>
+                </div>
+                <div class="pipeline-grid" id="pipelineGrid">
+                    <!-- Populated via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- AI Theme Clusters -->
+        <section id="themes" class="section bg-alt">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i data-lucide="pie-chart"></i> Global Themes Extracted</h2>
+                    <p>Gemini 1.5 Pro analyzed the entire dataset to identify these overarching behavioral patterns.</p>
+                </div>
+                <div class="themes-grid" id="themesGrid">
+                    <!-- Populated via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Core Insights -->
+        <section id="insights" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i data-lucide="zap"></i> Core Insights</h2>
+                    <p>Answering the 8 fundamental business questions with AI-synthesized evidence.</p>
+                </div>
+                <div class="insights-accordion" id="insightsList">
+                    <!-- Populated via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Source Explorer -->
+        <section id="explorer" class="section bg-alt">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i data-lucide="database"></i> Raw Data Explorer</h2>
+                    <p>Browse a curated sample of the highly-relevant reviews that powered this analysis.</p>
+                </div>
+                
+                <div class="filters">
+                    <button class="filter-btn active" data-filter="all">All Sources</button>
+                    <button class="filter-btn" data-filter="playstore">Play Store</button>
+                    <button class="filter-btn" data-filter="appstore">App Store</button>
+                    <button class="filter-btn" data-filter="reddit">Reddit</button>
+                </div>
+
+                <div class="explorer-grid" id="explorerGrid">
+                    <!-- Populated via JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Quality Validation -->
+        <section id="validation" class="section">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i data-lucide="shield-check"></i> Quality Validation</h2>
+                    <p>Ensuring our AI-generated insights are grounded in reality and statistically significant.</p>
+                </div>
+                <div class="validation-content" id="validationMetrics">
+                    <!-- Populated via JS -->
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Blinkit Discovery Engine | Built for the 2026 UX Research initiative.</p>
+            <p class="muted">Powered by Node.js, Google Gemini Pro, and Vanilla JS.</p>
+        </div>
+    </footer>
+
+    <!-- Data & Scripts -->
+    <script src="./js/data.js"></script>
+    <script src="./js/app.js"></script>
+    <script src="./js/pipeline.js"></script>
+    <script src="./js/themes.js"></script>
+    <script src="./js/insights.js"></script>
+    <script src="./js/sources.js"></script>
+    
+    <script>
+        // Initialize Icons
+        lucide.createIcons();
+    </script>
+</body>
+</html>
