@@ -456,7 +456,7 @@
 
 #### 3G: JavaScript — Theme Clusters (~30 min)
 
-- [ ] **3G.1** Create `public/js/themes.js`
+- [x] **3G.1** Create `public/js/themes.js`
   - Renders theme cards from `DISCOVERY_DATA.themes`
   - Each theme card shows:
     - Theme name + description
@@ -470,7 +470,7 @@
 
 #### 3H: JavaScript — Insight Cards (~30 min)
 
-- [ ] **3H.1** Create `public/js/insights.js`
+- [x] **3H.1** Create `public/js/insights.js`
   - Renders 8 insight cards from `DISCOVERY_DATA.insights`
   - Each card for one key question:
     - Question text (large, bold)
@@ -484,7 +484,7 @@
 
 #### 3I: JavaScript — Quality Validation (~20 min)
 
-- [ ] **3I.1** Create `public/js/validation.js`
+- [x] **3I.1** Create `public/js/validation.js`
   - Renders validation dashboard from `DISCOVERY_DATA.validation`
   - Metrics displayed:
     - Total reviews analyzed (big number)
@@ -496,7 +496,7 @@
 
 #### 3J: JavaScript — Charts (~20 min)
 
-- [ ] **3J.1** Create `public/js/charts.js`
+- [x] **3J.1** Create `public/js/charts.js`
   - Chart.js wrapper functions for:
     - **Source distribution**: Doughnut chart (reviews per source)
     - **Sentiment breakdown**: Horizontal bar chart
@@ -525,7 +525,7 @@
 
 ### Tasks
 
-- [ ] **4.1** Initialize Git repository
+- [x] **4.1** Initialize Git repository
   ```bash
   git init
   git add .
