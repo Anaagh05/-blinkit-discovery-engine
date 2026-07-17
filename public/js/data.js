@@ -16,11 +16,11 @@ window.DISCOVERY_DATA = {
   "reviews": [
     {
       "date": "2026-05-05T21:46:52.520Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 3)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 3)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -29,11 +29,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-31T16:29:36.399Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 23)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 23)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -42,11 +42,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-06T23:09:58.746Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 43)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 43)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -55,11 +55,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-17T13:16:06.908Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 63)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 63)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -69,10 +69,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-05-05T13:21:33.142Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 83)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 83)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -81,11 +81,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-29T20:50:44.097Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 103)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 103)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -95,10 +95,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-07-07T03:38:38.309Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 123)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 123)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -107,11 +107,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-29T03:20:07.621Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 143)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 143)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -120,11 +120,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-06T07:49:14.584Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 163)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 163)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -134,10 +134,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-03-13T08:46:55.066Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 183)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 183)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -146,11 +146,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-24T09:02:37.862Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 203)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 203)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -160,10 +160,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-04-23T06:07:44.492Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 223)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 223)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -172,11 +172,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-24T19:30:39.656Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 243)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 243)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -185,11 +185,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-17T00:32:55.364Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 263)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 263)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -199,10 +199,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-05-17T22:48:42.887Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 283)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 283)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -212,10 +212,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-03-01T11:29:30.074Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 303)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 303)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -224,11 +224,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-17T15:30:30.659Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 323)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 323)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -237,11 +237,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-31T23:11:46.824Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 343)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 343)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -250,11 +250,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-25T15:03:06.353Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 363)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 363)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -263,11 +263,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-01T14:41:53.202Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 383)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 383)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -276,11 +276,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-18T07:55:30.165Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 403)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 403)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -289,11 +289,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-29T02:36:02.985Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 423)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 423)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -302,11 +302,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-20T06:33:08.007Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 443)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 443)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -316,10 +316,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-07-05T02:35:59.333Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 463)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 463)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -328,11 +328,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-27T02:57:55.234Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 483)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 483)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -342,10 +342,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-03-05T04:58:56.446Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 503)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 503)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -354,11 +354,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-25T10:34:51.468Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 523)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 523)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -367,11 +367,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-26T03:12:55.072Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 543)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 543)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -381,10 +381,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-05-22T20:00:37.026Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 563)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 563)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -393,11 +393,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-16T17:39:11.973Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 583)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 583)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -407,10 +407,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-05-18T11:47:44.390Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 603)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 603)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -420,10 +420,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-04-06T04:27:32.375Z",
       "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 623)",
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 623)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -432,11 +432,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-22T06:08:55.360Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 643)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 643)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -445,11 +445,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-11T05:06:47.829Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 663)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 663)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -458,11 +458,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-02T20:50:09.746Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 683)",
+      "rating": 2,
+      "source": "app_store",
+      "text": "search is terrible, but discovery is non-existent. (review 683)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -472,10 +472,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-03-15T12:03:42.536Z",
       "rating": 3,
-      "source": "play_store",
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 703)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -484,11 +484,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-01T08:40:02.670Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 723)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -497,11 +497,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-14T19:04:09.952Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 743)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -511,10 +511,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-05-22T15:28:32.578Z",
       "rating": 3,
-      "source": "play_store",
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 763)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -523,11 +523,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-22T09:47:23.617Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 783)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -536,11 +536,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-26T18:16:05.333Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 803)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -549,11 +549,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-11T20:20:24.662Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 823)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -562,11 +562,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-16T20:19:14.269Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 843)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -575,11 +575,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-08T17:16:28.766Z",
-      "rating": 5,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 863)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -588,11 +588,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-21T11:56:39.346Z",
-      "rating": 1,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 883)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -601,11 +601,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-16T09:11:44.117Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 903)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -614,11 +614,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-23T10:16:17.630Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 923)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -627,11 +627,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-25T03:08:40.723Z",
-      "rating": 4,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 943)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -640,11 +640,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-06T08:42:37.770Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 963)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -653,11 +653,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-17T21:11:38.852Z",
-      "rating": 5,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 983)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -666,11 +666,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-26T07:54:29.198Z",
-      "rating": 5,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1003)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -679,11 +679,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-23T05:13:26.194Z",
-      "rating": 5,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1023)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -693,10 +693,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-07-05T04:57:29.933Z",
       "rating": 3,
-      "source": "play_store",
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1043)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -705,11 +705,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-22T02:42:58.298Z",
-      "rating": 5,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1063)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -718,11 +718,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-05T18:14:12.552Z",
-      "rating": 4,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1083)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -731,11 +731,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-14T08:32:18.655Z",
-      "rating": 1,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1103)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -744,11 +744,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-15T04:48:08.046Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1123)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -757,11 +757,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-10T22:50:14.075Z",
-      "rating": 4,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1143)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -771,10 +771,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-04-13T18:06:03.866Z",
       "rating": 3,
-      "source": "play_store",
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1163)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -783,11 +783,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-26T11:04:30.916Z",
-      "rating": 4,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1183)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -796,11 +796,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-12T03:07:32.697Z",
-      "rating": 4,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1203)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -809,11 +809,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-27T10:14:33.917Z",
-      "rating": 4,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1223)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -822,11 +822,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-06T12:19:14.815Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1243)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -836,10 +836,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-03-04T07:19:55.760Z",
       "rating": 3,
-      "source": "play_store",
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1263)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -848,11 +848,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-10T06:10:36.147Z",
-      "rating": 1,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1283)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -861,11 +861,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-23T20:25:30.541Z",
-      "rating": 1,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1303)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -874,11 +874,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-20T19:23:01.807Z",
-      "rating": 4,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1323)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -887,11 +887,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-09T19:33:05.603Z",
-      "rating": 2,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1343)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -900,11 +900,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-09T11:35:45.743Z",
-      "rating": 4,
-      "source": "play_store",
+      "rating": 3,
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1363)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -914,10 +914,10 @@ window.DISCOVERY_DATA = {
     {
       "date": "2026-06-27T19:30:36.623Z",
       "rating": 3,
-      "source": "play_store",
+      "source": "app_store",
       "text": "search is good, but discovery is non-existent. (review 1383)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -926,11 +926,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-02T02:36:55.128Z",
-      "rating": 3,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1403)",
+      "text": "search is bad, but discovery is non-existent. (review 1403)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -941,9 +941,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-05-09T00:22:07.007Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1423)",
+      "text": "search is bad, but discovery is non-existent. (review 1423)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -952,11 +952,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-12T06:09:32.617Z",
-      "rating": 5,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1443)",
+      "text": "search is bad, but discovery is non-existent. (review 1443)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -967,9 +967,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-03-19T02:39:21.360Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1463)",
+      "text": "search is bad, but discovery is non-existent. (review 1463)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -980,9 +980,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-05-27T23:39:33.751Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1483)",
+      "text": "search is bad, but discovery is non-existent. (review 1483)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -991,11 +991,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-12T21:58:41.189Z",
-      "rating": 4,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1503)",
+      "text": "search is bad, but discovery is non-existent. (review 1503)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1004,11 +1004,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-30T05:29:22.708Z",
-      "rating": 4,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1523)",
+      "text": "search is bad, but discovery is non-existent. (review 1523)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1017,11 +1017,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-05T13:38:54.632Z",
-      "rating": 2,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1543)",
+      "text": "search is bad, but discovery is non-existent. (review 1543)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1030,11 +1030,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-19T12:41:57.579Z",
-      "rating": 4,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1563)",
+      "text": "search is bad, but discovery is non-existent. (review 1563)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1043,11 +1043,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-21T15:09:39.879Z",
-      "rating": 5,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1583)",
+      "text": "search is bad, but discovery is non-existent. (review 1583)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1056,11 +1056,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-25T14:15:04.061Z",
-      "rating": 2,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1603)",
+      "text": "search is bad, but discovery is non-existent. (review 1603)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1071,9 +1071,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-03-16T02:25:54.252Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1623)",
+      "text": "search is bad, but discovery is non-existent. (review 1623)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1082,11 +1082,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-21T09:54:50.561Z",
-      "rating": 4,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1643)",
+      "text": "search is bad, but discovery is non-existent. (review 1643)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1095,11 +1095,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-16T12:42:08.072Z",
-      "rating": 2,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1663)",
+      "text": "search is bad, but discovery is non-existent. (review 1663)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1108,11 +1108,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-18T12:06:16.495Z",
-      "rating": 3,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1683)",
+      "text": "search is bad, but discovery is non-existent. (review 1683)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1123,9 +1123,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-03-16T13:27:05.718Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1703)",
+      "text": "search is bad, but discovery is non-existent. (review 1703)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1134,11 +1134,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-24T02:35:16.895Z",
-      "rating": 5,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1723)",
+      "text": "search is bad, but discovery is non-existent. (review 1723)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1149,9 +1149,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-03-05T19:18:15.664Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1743)",
+      "text": "search is bad, but discovery is non-existent. (review 1743)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1162,9 +1162,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-07-16T13:58:15.622Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1763)",
+      "text": "search is bad, but discovery is non-existent. (review 1763)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1175,9 +1175,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-03-06T23:35:46.850Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1783)",
+      "text": "search is bad, but discovery is non-existent. (review 1783)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1186,11 +1186,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-25T21:43:29.826Z",
-      "rating": 4,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1803)",
+      "text": "search is bad, but discovery is non-existent. (review 1803)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1199,11 +1199,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-22T01:33:32.303Z",
-      "rating": 4,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1823)",
+      "text": "search is bad, but discovery is non-existent. (review 1823)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1214,9 +1214,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-07-30T15:33:23.162Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1843)",
+      "text": "search is bad, but discovery is non-existent. (review 1843)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1225,11 +1225,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-13T03:13:27.095Z",
-      "rating": 2,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1863)",
+      "text": "search is bad, but discovery is non-existent. (review 1863)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1240,9 +1240,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-06-02T16:50:26.330Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1883)",
+      "text": "search is bad, but discovery is non-existent. (review 1883)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1251,11 +1251,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-05T00:25:15.115Z",
-      "rating": 4,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1903)",
+      "text": "search is bad, but discovery is non-existent. (review 1903)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1266,9 +1266,9 @@ window.DISCOVERY_DATA = {
       "date": "2026-07-18T15:22:14.236Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1923)",
+      "text": "search is bad, but discovery is non-existent. (review 1923)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1277,11 +1277,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-20T01:55:48.915Z",
-      "rating": 3,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1943)",
+      "text": "search is bad, but discovery is non-existent. (review 1943)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1290,11 +1290,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-18T14:31:34.508Z",
-      "rating": 3,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1963)",
+      "text": "search is bad, but discovery is non-existent. (review 1963)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1303,11 +1303,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-03T12:47:24.077Z",
-      "rating": 4,
+      "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1983)",
+      "text": "search is bad, but discovery is non-existent. (review 1983)",
       "word_count": 9,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1316,11 +1316,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-12T19:49:47.934Z",
-      "rating": 0,
+      "rating": 1,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 1) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 1",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1329,11 +1329,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-14T19:36:58.472Z",
-      "rating": 0,
+      "rating": 1,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 3) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 3",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1342,11 +1342,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-28T08:41:38.269Z",
-      "rating": 0,
+      "rating": 1,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 5) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 5",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1355,11 +1355,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-12T07:08:19.727Z",
-      "rating": 0,
+      "rating": 1,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 7) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 7",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1368,11 +1368,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-05T04:54:47.200Z",
-      "rating": 0,
+      "rating": 1,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 9) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 9",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "negative",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1381,11 +1381,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-17T01:29:04.776Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 11) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 11",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1394,11 +1394,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-08T03:09:44.343Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 13) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 13",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1407,11 +1407,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-17T00:16:32.010Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 15) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 15",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1420,11 +1420,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-11T05:20:46.223Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 17) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 17",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1433,11 +1433,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-03T21:51:29.415Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 19) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 19",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1446,11 +1446,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-12T19:56:50.933Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 21) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 21",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1459,11 +1459,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-02T17:53:53.413Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 23) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 23",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1472,11 +1472,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-16T12:35:41.071Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 25) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 25",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1485,11 +1485,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-25T15:43:41.464Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 27) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 27",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1498,11 +1498,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-15T06:31:17.255Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 29) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 29",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1511,11 +1511,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-21T11:55:21.536Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 31) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 31",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1524,11 +1524,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-28T21:54:28.307Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 33) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 33",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1537,11 +1537,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-29T10:21:37.183Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 35) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 35",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1550,11 +1550,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-09T09:21:36.524Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 37) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 37",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1563,11 +1563,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-01T21:11:38.861Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 39) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 39",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1576,11 +1576,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-10T00:15:25.308Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 41) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 41",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1589,11 +1589,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-21T15:41:36.950Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 43) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 43",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1602,11 +1602,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-11T06:16:20.218Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 45) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 45",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1615,11 +1615,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-15T15:11:22.658Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 47) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 47",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1628,11 +1628,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-07T01:30:41.111Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 49) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 49",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1641,11 +1641,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-24T14:27:53.792Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 51) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 51",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1654,11 +1654,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-10T02:21:22.190Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 53) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 53",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1667,11 +1667,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-04-20T01:13:21.643Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 55) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 55",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1680,11 +1680,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-19T07:32:05.880Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 57) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 57",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1693,11 +1693,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-12T06:12:33.487Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 59) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 59",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1706,11 +1706,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-20T19:34:20.598Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 61) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 61",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1719,11 +1719,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-10T04:42:40.908Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 63) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 63",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1732,11 +1732,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-19T19:53:47.690Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 65) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 65",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1745,11 +1745,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-12T14:09:44.145Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 67) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 67",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1758,11 +1758,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-11T23:22:22.541Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 69) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 69",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1771,11 +1771,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-03-21T17:02:57.268Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 71) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 71",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1784,11 +1784,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-05-27T16:57:51.801Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 73) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 73",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1797,11 +1797,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-02T16:39:16.835Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 75) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 75",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1810,11 +1810,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-06-24T07:00:12.802Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 77) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 77",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
@@ -1823,11 +1823,11 @@ window.DISCOVERY_DATA = {
     },
     {
       "date": "2026-07-14T06:09:30.269Z",
-      "rating": 0,
+      "rating": 3,
       "source": "reddit",
       "text": "blinkit is great for groceries but i never buy electronics (thread 79) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 79",
       "word_count": 47,
-      "sentiment": "positive",
+      "sentiment": "neutral",
       "score": 0.8,
       "relevance": "high",
       "category_signals": [
