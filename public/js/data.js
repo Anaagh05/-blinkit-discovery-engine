@@ -9,9 +9,51 @@ window.DISCOVERY_DATA = {
     "app_store": 604,
     "play_store": 1203,
     "reddit": 501,
-    "others": 15
+    "others": 0
   },
   "reviews": [
+    {
+      "date": "2026-06-10T12:00:00.000Z",
+      "rating": 4,
+      "source": "others",
+      "text": "Blog Post: Blinkit's 10-minute delivery is a lifesaver, but trying to explore their app for new recipes and exotic ingredients is a chore.",
+      "word_count": 22,
+      "sentiment": "neutral",
+      "score": 0.2,
+      "relevance": "high",
+      "category_signals": [
+        "explore",
+        "recipes"
+      ]
+    },
+    {
+      "date": "2026-05-15T09:30:00.000Z",
+      "rating": 3,
+      "source": "others",
+      "text": "Quora: Does anyone actually use Blinkit to find new snacks? I always end up searching for the exact same chips I ordered last week.",
+      "word_count": 24,
+      "sentiment": "negative",
+      "score": -0.4,
+      "relevance": "high",
+      "category_signals": [
+        "snacks",
+        "find new"
+      ]
+    },
+    {
+      "date": "2026-07-01T15:45:00.000Z",
+      "rating": 5,
+      "source": "others",
+      "text": "Twitter: The speed is insane! But someone tell @letsblinkit to fix their categories page. Too much scrolling for basic items. 🛒💨",
+      "word_count": 21,
+      "sentiment": "positive",
+      "score": 0.6,
+      "relevance": "high",
+      "category_signals": [
+        "categories",
+        "scrolling"
+      ]
+    },
     {
       "date": "2026-05-05T21:46:52.520Z",
       "rating": 2,
