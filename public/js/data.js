@@ -3,880 +3,22 @@ window.DISCOVERY_DATA = {
   "meta": {
     "totalReviews": 2313,
     "sourcesCount": 6,
-    "lastUpdated": "2026-07-24T16:23:10.729Z"
+    "lastUpdated": "2026-07-24T16:29:37.167Z"
   },
   "sourceStats": {
     "app_store": 604,
-    "play_store": 1203,
-    "reddit": 501,
-    "quora": 1,
-    "blog": 1,
-    "twitter": 3
+    "play_store": 1057,
+    "instagram": 80,
+    "facebook": 80,
+    "reddit": 487,
+    "others": 5
   },
   "reviews": [
     {
-      "date": "2026-05-05T21:46:52.520Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 3)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-31T16:29:36.399Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 23)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-06T23:09:58.746Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 43)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-17T13:16:06.908Z",
+      "date": "2026-07-18T15:22:14.236Z",
       "rating": 1,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 63)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-05T13:21:33.142Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 83)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-29T20:50:44.097Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 103)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-07T03:38:38.309Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 123)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-29T03:20:07.621Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 143)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-06T07:49:14.584Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 163)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-13T08:46:55.066Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 183)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-24T09:02:37.862Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 203)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-23T06:07:44.492Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 223)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-24T19:30:39.656Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 243)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-17T00:32:55.364Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 263)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-17T22:48:42.887Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 283)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-01T11:29:30.074Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 303)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-17T15:30:30.659Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 323)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-31T23:11:46.824Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 343)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-25T15:03:06.353Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 363)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-01T14:41:53.202Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 383)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-18T07:55:30.165Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 403)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-29T02:36:02.985Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 423)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-20T06:33:08.007Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 443)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-05T02:35:59.333Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 463)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-27T02:57:55.234Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 483)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-05T04:58:56.446Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 503)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-25T10:34:51.468Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 523)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-26T03:12:55.072Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 543)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-22T20:00:37.026Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 563)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-16T17:39:11.973Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 583)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-18T11:47:44.390Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 603)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-06T04:27:32.375Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 623)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-22T06:08:55.360Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 643)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-11T05:06:47.829Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 663)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-02T20:50:09.746Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 683)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-15T12:03:42.536Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 703)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-01T08:40:02.670Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 723)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-14T19:04:09.952Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 743)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-22T15:28:32.578Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 763)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-22T09:47:23.617Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 783)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-26T18:16:05.333Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 803)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-11T20:20:24.662Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 823)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-16T20:19:14.269Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 843)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-08T17:16:28.766Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 863)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-21T11:56:39.346Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 883)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-16T09:11:44.117Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 903)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-23T10:16:17.630Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 923)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-25T03:08:40.723Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 943)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-06T08:42:37.770Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 963)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-17T21:11:38.852Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 983)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-26T07:54:29.198Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1003)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-23T05:13:26.194Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1023)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-05T04:57:29.933Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1043)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-22T02:42:58.298Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1063)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-05T18:14:12.552Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1083)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-14T08:32:18.655Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1103)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-15T04:48:08.046Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1123)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-10T22:50:14.075Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1143)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-13T18:06:03.866Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1163)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-26T11:04:30.916Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1183)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-12T03:07:32.697Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1203)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-27T10:14:33.917Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1223)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-06T12:19:14.815Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1243)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-04T07:19:55.760Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1263)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-10T06:10:36.147Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1283)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-23T20:25:30.541Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1303)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-20T19:23:01.807Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1323)",
+      "text": "search is good, but discovery is non-existent. (review 1923)",
       "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
@@ -899,162 +41,6 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-03-09T11:35:45.743Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1363)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-27T19:30:36.623Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1383)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-02T02:36:55.128Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1403)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-09T00:22:07.007Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1423)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-12T06:09:32.617Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1443)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-19T02:39:21.360Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1463)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-27T23:39:33.751Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1483)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-12T21:58:41.189Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1503)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-30T05:29:22.708Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1523)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-05T13:38:54.632Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1543)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-19T12:41:57.579Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1563)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-21T15:09:39.879Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1583)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
       "date": "2026-06-25T14:15:04.061Z",
       "rating": 2,
       "source": "play_store",
@@ -1068,23 +54,23 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-03-16T02:25:54.252Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1623)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
+      "date": "2026-06-02T20:05:19.273Z",
+      "rating": 0,
+      "source": "instagram",
+      "text": "why does blinkit never show me new categories? (thread 30) blinkit is okay but expensive.",
+      "word_count": 15,
+      "sentiment": "negative",
+      "score": 0.9957595654573688,
       "relevance": "high",
       "category_signals": [
         "mock_signal"
       ]
     },
     {
-      "date": "2026-07-21T09:54:50.561Z",
+      "date": "2026-03-26T11:04:30.916Z",
       "rating": 4,
       "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1643)",
+      "text": "search is good, but discovery is non-existent. (review 1183)",
       "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
@@ -1094,361 +80,10 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-04-16T12:42:08.072Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1663)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-18T12:06:16.495Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1683)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-16T13:27:05.718Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1703)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-24T02:35:16.895Z",
-      "rating": 5,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1723)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-05T19:18:15.664Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1743)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-16T13:58:15.622Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1763)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-06T23:35:46.850Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1783)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-25T21:43:29.826Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1803)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-22T01:33:32.303Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1823)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-30T15:33:23.162Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1843)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-13T03:13:27.095Z",
-      "rating": 2,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1863)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-02T16:50:26.330Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1883)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-05T00:25:15.115Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1903)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-18T15:22:14.236Z",
-      "rating": 1,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1923)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-20T01:55:48.915Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1943)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-18T14:31:34.508Z",
-      "rating": 3,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1963)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-03T12:47:24.077Z",
-      "rating": 4,
-      "source": "play_store",
-      "text": "search is good, but discovery is non-existent. (review 1983)",
-      "word_count": 9,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-12T19:49:47.934Z",
+      "date": "2026-07-15T06:31:17.255Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 1) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 1",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-14T19:36:58.472Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 3) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 3",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-28T08:41:38.269Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 5) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 5",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-12T07:08:19.727Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 7) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 7",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-05T04:54:47.200Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 9) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 9",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-17T01:29:04.776Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 11) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 11",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-08T03:09:44.343Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 13) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 13",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-17T00:16:32.010Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 15) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 15",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-11T05:20:46.223Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 17) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 17",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-03T21:51:29.415Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 19) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 19",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-12T19:56:50.933Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 21) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 21",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 29) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 29",
       "word_count": 47,
       "sentiment": "positive",
       "score": 0.8,
@@ -1471,10 +106,36 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-06-16T12:35:41.071Z",
+      "date": "2026-04-13T18:06:03.866Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1163)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-30T15:33:23.162Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1843)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-20T01:13:21.643Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 25) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 25",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 55) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 55",
       "word_count": 47,
       "sentiment": "positive",
       "score": 0.8,
@@ -1484,36 +145,23 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-05-25T15:43:41.464Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 27) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 27",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
+      "date": "2026-07-31T16:16:55.460Z",
+      "rating": 4,
+      "source": "instagram",
+      "text": "i keep forgetting they sell electronics too. need better recommendations. (review 944)",
+      "word_count": 12,
+      "sentiment": "neutral",
+      "score": 0.997166181515741,
       "relevance": "high",
       "category_signals": [
         "mock_signal"
       ]
     },
     {
-      "date": "2026-07-15T06:31:17.255Z",
+      "date": "2026-05-29T10:21:37.183Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 29) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 29",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-21T11:55:21.536Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 31) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 31",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 35) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 35",
       "word_count": 47,
       "sentiment": "positive",
       "score": 0.8,
@@ -1536,11 +184,11 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-05-29T10:21:37.183Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 35) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 35",
-      "word_count": 47,
+      "date": "2026-07-23T10:16:17.630Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 923)",
+      "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
       "relevance": "high",
@@ -1549,91 +197,13 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-03-09T09:21:36.524Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 37) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 37",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-01T21:11:38.861Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 39) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 39",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-10T00:15:25.308Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 41) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 41",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-21T15:41:36.950Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 43) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 43",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-11T06:16:20.218Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 45) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 45",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-15T15:11:22.658Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 47) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 47",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-07T01:30:41.111Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 49) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 49",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
+      "date": "2026-07-15T08:41:15.021Z",
+      "rating": 2,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 377)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9992323115868492,
       "relevance": "high",
       "category_signals": [
         "mock_signal"
@@ -1653,50 +223,11 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-04-10T02:21:22.190Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 53) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 53",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-20T01:13:21.643Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 55) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 55",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-19T07:32:05.880Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 57) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 57",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-12T06:12:33.487Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 59) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 59",
-      "word_count": 47,
+      "date": "2026-05-20T19:23:01.807Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1323)",
+      "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
       "relevance": "high",
@@ -1718,10 +249,10 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-05-10T04:42:40.908Z",
+      "date": "2026-07-17T00:16:32.010Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 63) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 63",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 15) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 15",
       "word_count": 47,
       "sentiment": "positive",
       "score": 0.8,
@@ -1744,11 +275,11 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-07-12T14:09:44.145Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 67) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 67",
-      "word_count": 47,
+      "date": "2026-04-23T05:13:26.194Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1023)",
+      "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
       "relevance": "high",
@@ -1757,10 +288,49 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-05-11T23:22:22.541Z",
+      "date": "2026-04-15T12:03:21.698Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery i love the reorder feature, use it every day. (feedback 431)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9980553224066616,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-04T19:34:21.465Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 299)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.998360453317026,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-11T08:02:37.690Z",
+      "rating": 2,
+      "source": "app_store",
+      "text": "needs better discovery i love the reorder feature, use it every day. (feedback 131)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9991365055671095,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-12T07:08:19.727Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 69) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 69",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 7) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 7",
       "word_count": 47,
       "sentiment": "positive",
       "score": 0.8,
@@ -1783,10 +353,127 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-05-27T16:57:51.801Z",
+      "date": "2026-05-30T17:54:28.077Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery too many crashes on ios 17. (feedback 466)",
+      "word_count": 11,
+      "sentiment": "neutral",
+      "score": 0.9935161897795732,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-18T11:47:44.390Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 603)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-13T10:56:01.786Z",
+      "rating": 2,
+      "source": "facebook",
+      "text": "great app, but the ui makes me just click 'reorder' instead of browsing. (review 341)",
+      "word_count": 15,
+      "sentiment": "positive",
+      "score": 0.9987475857493701,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-17T00:32:55.364Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 263)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-22T10:50:37.751Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery too many crashes on ios 17. (feedback 546)",
+      "word_count": 11,
+      "sentiment": "neutral",
+      "score": 0.9965319922153741,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-04T07:19:55.760Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1263)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-03T03:43:04.066Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 677)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9984994697641371,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-13T08:46:55.066Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 183)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-09T18:51:02.115Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 959)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.9988943494669883,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-12T19:49:47.934Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 73) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 73",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 1) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 1",
       "word_count": 47,
       "sentiment": "positive",
       "score": 0.8,
@@ -1796,11 +483,336 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-07-02T16:39:16.835Z",
+      "date": "2026-03-12T06:12:33.487Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 75) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 75",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 59) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 59",
       "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-05T04:57:29.933Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1043)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-16T12:42:08.072Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1663)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-10T06:10:36.147Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1283)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-07T13:57:10.322Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 737)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9909357220355994,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-16T21:48:56.088Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery quick commerce is amazing but i never try new things. (feedback 943)",
+      "word_count": 15,
+      "sentiment": "neutral",
+      "score": 0.9966393651133065,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-12T10:27:19.002Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery blinkit ui feels like a giant list of past orders. (feedback 654)",
+      "word_count": 15,
+      "sentiment": "neutral",
+      "score": 0.9908336958533188,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-16T09:37:06.464Z",
+      "rating": 5,
+      "source": "instagram",
+      "text": "i really enjoy the 10 min delivery but sometimes the produce is not fresh. still, i buy my daily items here. (review 974)",
+      "word_count": 23,
+      "sentiment": "neutral",
+      "score": 0.99435781501315,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-15T04:43:30.425Z",
+      "rating": 3,
+      "source": "facebook",
+      "text": "i keep forgetting they sell electronics too. need better recommendations. (review 1864)",
+      "word_count": 12,
+      "sentiment": "neutral",
+      "score": 0.9982160073230951,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-21T15:09:39.879Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1583)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-07T15:31:31.833Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 979)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.9984708267472027,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-17T21:11:38.852Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 983)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-22T20:00:37.026Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 563)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-19T02:39:21.360Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1463)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-22T02:42:58.298Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1063)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-17T13:16:06.908Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 63)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-28T08:41:38.269Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 5) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 5",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-05T13:21:33.142Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 83)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-20T06:33:08.007Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 443)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-11T05:20:46.223Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 17) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 17",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-22T09:47:23.617Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 783)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-10T02:21:22.190Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 53) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 53",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-15T22:47:23.344Z",
+      "rating": 2,
+      "source": "facebook",
+      "text": "why do they hide the new arrivals? (review 888)",
+      "word_count": 9,
+      "sentiment": "neutral",
+      "score": 0.9970788138928239,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-05T21:46:52.520Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 3)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-12T14:09:44.145Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 67) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 67",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-13T03:13:27.095Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1863)",
+      "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
       "relevance": "high",
@@ -1822,11 +834,11 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-07-14T06:09:30.269Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 79) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 79",
-      "word_count": 47,
+      "date": "2026-05-18T07:55:30.165Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 403)",
+      "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
       "relevance": "high",
@@ -1835,11 +847,11 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-05-22T15:59:16.555Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 81) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 81",
-      "word_count": 47,
+      "date": "2026-06-05T18:14:12.552Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1083)",
+      "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
       "relevance": "high",
@@ -1848,11 +860,11 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-05-17T08:24:10.931Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 83) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 83",
-      "word_count": 47,
+      "date": "2026-05-21T11:56:39.346Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 883)",
+      "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
       "relevance": "high",
@@ -1861,10 +873,49 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-05-05T11:13:38.004Z",
+      "date": "2026-06-13T00:47:49.457Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery too many crashes on ios 17. (feedback 946)",
+      "word_count": 11,
+      "sentiment": "neutral",
+      "score": 0.9992483335999657,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-06T07:49:14.584Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 163)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-03T00:28:42.933Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 369)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.9942020619103173,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-11T23:22:22.541Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 85) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 85",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 69) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 69",
       "word_count": 47,
       "sentiment": "positive",
       "score": 0.8,
@@ -1887,6 +938,1553 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
+      "date": "2026-04-27T09:06:24.536Z",
+      "rating": 3,
+      "source": "facebook",
+      "text": "i keep forgetting they sell electronics too. need better recommendations. (review 764)",
+      "word_count": 12,
+      "sentiment": "neutral",
+      "score": 0.9960203694039703,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-14T08:32:18.655Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1103)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-06T04:27:32.375Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 623)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-23T20:25:30.541Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1303)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-03T07:30:41.510Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery how do i find new cosmetics on here? (feedback 842)",
+      "word_count": 13,
+      "sentiment": "neutral",
+      "score": 0.9957112835185535,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-06T11:57:53.468Z",
+      "rating": 5,
+      "source": "app_store",
+      "text": "needs better discovery i love the reorder feature, use it every day. (feedback 581)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9910423220167477,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-17T01:29:04.776Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 11) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 11",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-05T00:25:15.115Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1903)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-25T15:03:06.353Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 363)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-25T21:43:29.826Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1803)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-06T08:42:37.770Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 963)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-05T04:54:47.200Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 9) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 9",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-01T04:39:10.501Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 549)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.9962053798777915,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-02T16:39:16.835Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 75) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 75",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-01T11:29:30.074Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 303)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-14T03:18:04.570Z",
+      "rating": 5,
+      "source": "app_store",
+      "text": "needs better discovery ios app is smooth but discovering items is difficult. (feedback 570)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9971720593692002,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-16T02:25:54.252Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1623)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-04T22:06:44.940Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery blinkit ui feels like a giant list of past orders. (feedback 354)",
+      "word_count": 15,
+      "sentiment": "neutral",
+      "score": 0.995575426752428,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-13T03:17:58.953Z",
+      "rating": 0,
+      "source": "instagram",
+      "text": "why does blinkit never show me new categories? (thread 234) blinkit is okay but expensive.",
+      "word_count": 15,
+      "sentiment": "negative",
+      "score": 0.9945433299306565,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-04T19:13:32.099Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery blinkit ui feels like a giant list of past orders. (feedback 554)",
+      "word_count": 15,
+      "sentiment": "neutral",
+      "score": 0.9952395754182983,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-14T19:04:09.952Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 743)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-14T19:36:58.472Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 3) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 3",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-03T10:11:06.124Z",
+      "rating": 2,
+      "source": "app_store",
+      "text": "needs better discovery quick commerce is amazing but i never try new things. (feedback 473)",
+      "word_count": 15,
+      "sentiment": "neutral",
+      "score": 0.9969998176516756,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-27T10:14:33.917Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1223)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-01T21:11:38.861Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 39) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 39",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-22T15:28:32.578Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 763)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-08T17:16:28.766Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 863)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-14T17:06:38.548Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery quick commerce is amazing but i never try new things. (feedback 13)",
+      "word_count": 15,
+      "sentiment": "neutral",
+      "score": 0.9934044449632143,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-19T12:41:57.579Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1563)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-01T08:40:02.670Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 723)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-17T03:17:18.342Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery ios app is smooth but discovering items is difficult. (feedback 410)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9920207545311799,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-05T11:13:38.004Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 85) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 85",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-17T08:24:10.931Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 83) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 83",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-29T20:50:44.097Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 103)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-10T00:15:25.308Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 41) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 41",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-16T13:27:05.718Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1703)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-09T19:51:09.069Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery i love the reorder feature, use it every day. (feedback 691)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9993145780433432,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-12T06:09:32.617Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1443)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-26T04:40:35.938Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery ios app is smooth but discovering items is difficult. (feedback 710)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9945319794577673,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-22T01:56:06.308Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery i love the reorder feature, use it every day. (feedback 471)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9927866305635773,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-24T02:35:16.895Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1723)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-21T01:50:41.993Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery i love the reorder feature, use it every day. (feedback 671)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9960338326275124,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-01T14:41:53.202Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 383)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-12T21:58:41.189Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1503)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-26T09:47:25.883Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 477)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9984975431009083,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-09T00:22:07.007Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1423)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-25T03:08:40.723Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 943)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-18T14:30:00Z",
+      "rating": 4,
+      "source": "others",
+      "text": "love the 10 min delivery but wish blinkit would recommend products based on my past purchases. i never visit the electronics or makeup categories.",
+      "word_count": 24,
+      "sentiment": "neutral",
+      "score": 0.98192522775844,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-28T03:22:15.057Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 687)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9983196529667084,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-30T05:29:22.708Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1523)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-24T12:28:48.842Z",
+      "rating": 1,
+      "source": "instagram",
+      "text": "can we get a better section for trending items? i want to see what others are buying. (review 1938)",
+      "word_count": 19,
+      "sentiment": "neutral",
+      "score": 0.9929065794952301,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-15T20:14:09.170Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 87)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9916613595017487,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-16T17:39:11.973Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 583)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-26T03:12:55.072Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 543)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-16T13:58:15.622Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1763)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-05T04:58:56.446Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 503)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-02T20:50:09.746Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 683)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-22T06:08:55.360Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 643)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-31T23:11:46.824Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 343)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-05T13:38:54.632Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1543)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-11T06:16:20.218Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 45) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 45",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-18T12:06:16.495Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1683)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-30T03:44:27.898Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery ios app is smooth but discovering items is difficult. (feedback 670)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9911821249232696,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-26T07:54:29.198Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1003)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-16T12:35:41.071Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 25) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 25",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-21T11:55:21.536Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 31) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 31",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-27T02:57:55.234Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 483)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-23T23:14:23.626Z",
+      "rating": 4,
+      "source": "facebook",
+      "text": "why do they hide the new arrivals? (review 388)",
+      "word_count": 9,
+      "sentiment": "neutral",
+      "score": 0.9999078784990928,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-09T14:22:12.478Z",
+      "rating": 5,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 589)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.9932689900454101,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-05T04:38:15.637Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery i love the reorder feature, use it every day. (feedback 381)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9956046751882293,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-25T15:43:41.464Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 27) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 27",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-31T09:39:41.107Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 507)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9939802481521175,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-02T17:17:10.852Z",
+      "rating": 5,
+      "source": "app_store",
+      "text": "needs better discovery quick commerce is amazing but i never try new things. (feedback 813)",
+      "word_count": 15,
+      "sentiment": "neutral",
+      "score": 0.9953288715234085,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-15T04:48:08.046Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1123)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-07T01:30:41.111Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 49) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 49",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-25T10:34:51.468Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 523)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-15T12:03:42.536Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 703)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-17T10:56:08.141Z",
+      "rating": 5,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 949)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.9993568972877607,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-12T03:07:32.697Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1203)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-27T21:44:41.635Z",
+      "rating": 5,
+      "source": "app_store",
+      "text": "needs better discovery ios app is smooth but discovering items is difficult. (feedback 650)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9958957257529829,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-31T16:29:36.399Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 23)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-02T16:50:26.330Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1883)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-20T15:15:26.795Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 847)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9909414453589871,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-16T09:11:44.117Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 903)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-18T21:09:10.633Z",
+      "rating": 4,
+      "source": "facebook",
+      "text": "delivery takes 15 mins now instead of 10. disappointed. (review 1617)",
+      "word_count": 11,
+      "sentiment": "neutral",
+      "score": 0.9889338364163154,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-29T01:14:04.985Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery ios app is smooth but discovering items is difficult. (feedback 30)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9929615959234213,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-07T04:30:21.222Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 397)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9920829733377653,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-17T15:30:30.659Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 323)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-29T03:20:07.621Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 143)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-24T19:30:39.656Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 243)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-10T04:42:40.908Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 63) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 63",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-11T05:06:47.829Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 663)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-27T16:57:51.801Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 73) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 73",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-27T16:46:50.088Z",
+      "rating": 5,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 859)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.9941481705220216,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-16T20:19:14.269Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 843)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-14T06:09:30.269Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 79) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 79",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-03T21:51:29.415Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 19) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 19",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-24T11:00:01.114Z",
+      "rating": 4,
+      "source": "instagram",
+      "text": "i really enjoy the 10 min delivery but sometimes the produce is not fresh. still, i buy my daily items here. (review 1654)",
+      "word_count": 23,
+      "sentiment": "neutral",
+      "score": 0.9913597138971023,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-08T18:49:32.699Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery how do i find new cosmetics on here? (feedback 62)",
+      "word_count": 13,
+      "sentiment": "neutral",
+      "score": 0.9994724187548835,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-17T22:48:42.887Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 283)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-02T02:36:55.128Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1403)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-30T00:33:57.089Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 797)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9923653134609599,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-10T13:36:04.596Z",
+      "rating": 2,
+      "source": "app_store",
+      "text": "needs better discovery quick commerce is amazing but i never try new things. (feedback 303)",
+      "word_count": 15,
+      "sentiment": "neutral",
+      "score": 0.9912195540589915,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-05T14:59:26.215Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery ios app is smooth but discovering items is difficult. (feedback 930)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.9959915388283277,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-20T22:06:27.228Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery too many crashes on ios 17. (feedback 46)",
+      "word_count": 11,
+      "sentiment": "neutral",
+      "score": 0.9916420421402057,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-05T19:18:15.664Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1743)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-09T11:35:45.743Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1363)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-06T12:19:14.815Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1243)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-09T09:21:36.524Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 37) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 37",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-24T09:02:37.862Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 203)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-15T20:21:22.278Z",
+      "rating": 1,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 69)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.997094203176514,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-11T20:20:24.662Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 823)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-24T22:35:43.795Z",
+      "rating": 2,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 39)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.994904184261935,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-21T15:41:36.950Z",
+      "rating": 0,
+      "source": "reddit",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 43) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 43",
+      "word_count": 47,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-06T23:09:58.746Z",
+      "rating": 5,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 43)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-27T19:30:36.623Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1383)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-29T00:53:31.549Z",
+      "rating": 2,
+      "source": "app_store",
+      "text": "needs better discovery quick commerce is amazing but i never try new things. (feedback 693)",
+      "word_count": 15,
+      "sentiment": "neutral",
+      "score": 0.9989826388279965,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-03-06T23:35:46.850Z",
+      "rating": 1,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1783)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-04-23T06:07:44.492Z",
+      "rating": 2,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 223)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
       "date": "2026-03-02T12:19:31.289Z",
       "rating": 0,
       "source": "reddit",
@@ -1900,10 +2498,36 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-04-05T00:52:51.230Z",
+      "date": "2026-07-23T06:46:56.069Z",
+      "rating": 4,
+      "source": "app_store",
+      "text": "needs better discovery delivery is fine. (feedback 187)",
+      "word_count": 8,
+      "sentiment": "neutral",
+      "score": 0.9979404612491579,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-03T06:14:02.541Z",
+      "rating": 3,
+      "source": "app_store",
+      "text": "needs better discovery i love the reorder feature, use it every day. (feedback 681)",
+      "word_count": 14,
+      "sentiment": "neutral",
+      "score": 0.997693900306741,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-05-12T19:56:50.933Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 91) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 91",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 21) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 21",
       "word_count": 47,
       "sentiment": "positive",
       "score": 0.8,
@@ -1913,10 +2537,36 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-04-09T17:49:29.444Z",
+      "date": "2026-07-21T09:54:50.561Z",
+      "rating": 4,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 1643)",
+      "word_count": 9,
+      "sentiment": "positive",
+      "score": 0.8,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-07-26T10:41:45.168Z",
+      "rating": 5,
+      "source": "app_store",
+      "text": "needs better discovery i wish they had a 'discover' tab. right now i just use search if i know exactly what i want. (feedback 929)",
+      "word_count": 25,
+      "sentiment": "neutral",
+      "score": 0.9941577403492718,
+      "relevance": "high",
+      "category_signals": [
+        "mock_signal"
+      ]
+    },
+    {
+      "date": "2026-06-19T07:32:05.880Z",
       "rating": 0,
       "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 93) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 93",
+      "text": "blinkit is great for groceries but i never buy electronics (thread 57) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 57",
       "word_count": 47,
       "sentiment": "positive",
       "score": 0.8,
@@ -1926,687 +2576,11 @@ window.DISCOVERY_DATA = {
       ]
     },
     {
-      "date": "2026-06-19T03:59:35.484Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 95) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 95",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-08T07:55:36.703Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 97) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 97",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-29T09:35:30.157Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 99) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 99",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-23T19:12:51.681Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 101) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 101",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-03T19:25:15.533Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 103) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 103",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-03T16:42:49.672Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 105) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 105",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-08T11:07:50.920Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 107) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 107",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-03T16:34:10.589Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 109) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 109",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-30T02:40:36.539Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 111) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 111",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-06T17:46:54.879Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 113) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 113",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-17T14:00:49.299Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 115) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 115",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-16T22:00:19.423Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 117) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 117",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-14T12:47:38.788Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 119) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 119",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-26T16:11:07.119Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 121) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 121",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-24T10:04:25.816Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 123) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 123",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-02T03:16:05.391Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 125) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 125",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-27T06:49:09.168Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 127) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 127",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-10T16:20:36.941Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 129) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 129",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-22T09:55:54.352Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 131) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 131",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-31T18:34:49.155Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 133) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 133",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-02T10:33:16.921Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 135) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 135",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-25T23:46:45.761Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 137) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 137",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-20T15:35:46.113Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 139) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 139",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-07T04:16:21.275Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 141) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 141",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-10T02:13:04.774Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 143) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 143",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-22T02:17:21.298Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 145) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 145",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-13T06:06:39.630Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 147) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 147",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-25T09:52:25.064Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 149) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 149",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-08T20:50:52.713Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 151) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 151",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-12T06:55:41.537Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 153) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 153",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-06T06:24:30.411Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 155) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 155",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-17T21:10:58.825Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 157) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 157",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-24T10:28:56.699Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 159) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 159",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-29T01:09:16.852Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 161) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 161",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-31T08:08:08.507Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 163) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 163",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-08T19:34:36.119Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 165) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 165",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-18T14:35:17.968Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 167) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 167",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-13T07:12:58.879Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 169) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 169",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-07T23:43:58.237Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 171) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 171",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-31T05:32:07.046Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 173) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 173",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-10T13:05:55.736Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 175) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 175",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-22T04:00:02.607Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 177) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 177",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-10T16:16:47.613Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 179) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 179",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-22T20:44:56.892Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 181) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 181",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-04T13:39:19.041Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 183) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 183",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-14T01:14:02.233Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 185) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 185",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-14T05:04:07.969Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 187) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 187",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-12T02:35:16.943Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 189) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 189",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-07-04T15:39:46.188Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 191) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 191",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-03-24T21:28:35.945Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 193) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 193",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-05-01T13:34:33.454Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 195) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in delhi? - 195",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-06-18T11:59:59.929Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 197) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in developersindia? - 197",
-      "word_count": 47,
-      "sentiment": "positive",
-      "score": 0.8,
-      "relevance": "high",
-      "category_signals": [
-        "mock_signal"
-      ]
-    },
-    {
-      "date": "2026-04-02T13:43:11.352Z",
-      "rating": 0,
-      "source": "reddit",
-      "text": "blinkit is great for groceries but i never buy electronics (thread 199) i always just reorder my previous items. does anyone else just ignore the explore tab? it feels like they only want me to buy milk and eggs. anyone else facing this in bangalore? - 199",
-      "word_count": 47,
+      "date": "2026-03-29T02:36:02.985Z",
+      "rating": 3,
+      "source": "play_store",
+      "text": "search is good, but discovery is non-existent. (review 423)",
+      "word_count": 9,
       "sentiment": "positive",
       "score": 0.8,
       "relevance": "high",

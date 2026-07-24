@@ -18,21 +18,32 @@ function buildDashboardData() {
     const insights = fs.existsSync(insightsFile) ? JSON.parse(fs.readFileSync(insightsFile, 'utf8')) : [];
     const validation = fs.existsSync(validationFile) ? JSON.parse(fs.readFileSync(validationFile, 'utf8')) : {};
 
-    // Select top 200 reviews to keep payload small but representative
-    // Sort by relevance (high first) and score
-    const topReviews = [...sentiments]
-        .sort((a, b) => {
-            if (a.relevance === 'high' && b.relevance !== 'high') return -1;
-            if (a.relevance !== 'high' && b.relevance === 'high') return 1;
-            return b.score - a.score;
-        })
-        .slice(0, 200);
-
     // Compute source stats from full dataset
     const sourceStats = {};
     sentiments.forEach(r => {
         sourceStats[r.source] = (sourceStats[r.source] || 0) + 1;
     });
+
+    const sourceBuckets = {};
+    Object.keys(sourceStats).forEach(s => {
+        sourceBuckets[s] = sentiments.filter(r => r.source === s).sort((a, b) => {
+            if (a.relevance === 'high' && b.relevance !== 'high') return -1;
+            if (a.relevance !== 'high' && b.relevance === 'high') return 1;
+            return (b.score || 0) - (a.score || 0);
+        });
+    });
+
+    const topReviews = [];
+    const TARGET_TOTAL = 200;
+    Object.keys(sourceBuckets).forEach(s => {
+        const proportion = sourceStats[s] / sentiments.length;
+        let allocate = Math.max(1, Math.floor(proportion * TARGET_TOTAL));
+        if (allocate > sourceBuckets[s].length) allocate = sourceBuckets[s].length;
+        topReviews.push(...sourceBuckets[s].slice(0, allocate));
+    });
+
+    // Shuffle the final array to mix sources well in the UI
+    topReviews.sort(() => Math.random() - 0.5);
 
     const discoveryData = {
         meta: {
