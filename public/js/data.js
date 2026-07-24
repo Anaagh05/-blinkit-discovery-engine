@@ -1,9 +1,9 @@
 // Auto-generated data file for the Discovery Engine Dashboard
-const DISCOVERY_DATA = {
+window.DISCOVERY_DATA = {
   "meta": {
     "totalReviews": 2313,
     "sourcesCount": 6,
-    "lastUpdated": "2026-07-24T16:05:20.130Z"
+    "lastUpdated": "2026-07-24T16:23:10.729Z"
   },
   "sourceStats": {
     "app_store": 604,

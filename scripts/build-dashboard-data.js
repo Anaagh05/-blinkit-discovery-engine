@@ -48,7 +48,7 @@ function buildDashboardData() {
     };
 
     const jsContent = `// Auto-generated data file for the Discovery Engine Dashboard
-const DISCOVERY_DATA = ${JSON.stringify(discoveryData, null, 2)};
+window.DISCOVERY_DATA = ${JSON.stringify(discoveryData, null, 2)};
 `;
 
     // Ensure directory exists
