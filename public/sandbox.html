@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blinkit Discovery Engine | Interactive Sandbox</title>
+    <meta name="description" content="Test out the AI-Powered Discovery Engine with real-time analysis of user feedback.">
+    
+    <!-- Google Fonts: Inter (Body) & JetBrains Mono (Data) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="./css/styles.css">
+
+    <style>
+        .sandbox-container {
+            max-width: 800px;
+            margin: 4rem auto;
+            padding: 0 2rem;
+        }
+
+        .sandbox-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 2.5rem;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .sandbox-header {
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+
+        .sandbox-header h2 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .sandbox-header p {
+            color: var(--text-secondary);
+        }
+
+        .input-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .review-input {
+            width: 100%;
+            height: 150px;
+            padding: 1rem;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            background: var(--bg-color);
+            color: var(--text-primary);
+            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            resize: vertical;
+            transition: border-color 0.2s;
+        }
+
+        .review-input:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+
+        .btn-analyze {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            font-size: 1.1rem;
+            font-weight: 600;
+            border-radius: 8px;
+            cursor: pointer;
+            width: 100%;
+            transition: background-color 0.2s;
+        }
+
+        .btn-analyze:hover {
+            background: #e89500;
+        }
+        
+        .btn-analyze:disabled {
+            background: var(--border);
+            cursor: not-allowed;
+            color: var(--text-secondary);
+        }
+
+        .loader {
+            display: none;
+            border: 3px solid rgba(255,255,255,0.3);
+            border-radius: 50%;
+            border-top: 3px solid white;
+            width: 20px;
+            height: 20px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .results-section {
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+            display: none;
+        }
+        
+        .results-section.active {
+            display: block;
+            animation: fadeIn 0.4s ease;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .result-item {
+            margin-bottom: 1.5rem;
+        }
+
+        .result-label {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .result-label i {
+            width: 16px;
+            height: 16px;
+        }
+
+        .result-value {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            background: var(--bg-color);
+            padding: 1rem;
+            border-radius: 8px;
+            border-left: 4px solid var(--primary);
+        }
+
+        .sentiment-positive { border-left-color: #10b981; }
+        .sentiment-negative { border-left-color: #ef4444; }
+        .sentiment-neutral { border-left-color: #64748b; }
+        
+        .error-message {
+            color: #ef4444;
+            background: rgba(239, 68, 68, 0.1);
+            padding: 1rem;
+            border-radius: 8px;
+            margin-top: 1rem;
+            display: none;
+            font-weight: 500;
+        }
+
+    </style>
+</head>
+<body>
+
+    <!-- App Header -->
+    <header class="app-header">
+        <div class="container">
+            <a href="index.html" class="header-brand">blink<span>it</span> <span class="brand-divider">|</span> <span class="brand-sub">Discovery Engine</span></a>
+            
+            <nav class="header-nav">
+                <a href="index.html" class="nav-link-home"><i data-lucide="home"></i> Home</a>
+                <a href="sandbox.html" class="nav-link-sandbox active"><i data-lucide="play-circle"></i> Sandbox</a>
+                <a href="themes.html" class="nav-link-themes"><i data-lucide="layers"></i> AI Themes</a>
+                <a href="insights.html" class="nav-link-insights"><i data-lucide="lightbulb"></i> Core Insights</a>
+                <a href="explorer.html" class="nav-link-explorer"><i data-lucide="search"></i> Source Explorer</a>
+                <a href="validation.html" class="nav-link-validation"><i data-lucide="check-circle"></i> Validation</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-title">
+            <div class="container">
+                <h1>Interactive Sandbox</h1>
+                <p>Test the Gemini API workflow in real-time. Paste a review below to see how the engine categorizes themes and sentiment.</p>
+            </div>
+        </section>
+
+        <div class="sandbox-container">
+            <div class="sandbox-card">
+                <div class="sandbox-header">
+                    <h2>Try the Engine</h2>
+                    <p>Enter a raw customer review to analyze</p>
+                </div>
+                
+                <div class="input-group">
+                    <textarea id="reviewText" class="review-input" placeholder="e.g., 'I love Blinkit for milk, but I never look at the beauty section because I don't trust the expiration dates.'"></textarea>
+                </div>
+                
+                <button id="analyzeBtn" class="btn-analyze">
+                    <span class="btn-text">Analyze Review</span>
+                    <i data-lucide="sparkles" class="btn-icon"></i>
+                    <div class="loader" id="btnLoader"></div>
+                </button>
+
+                <div id="errorMessage" class="error-message"></div>
+
+                <div id="resultsSection" class="results-section">
+                    <div class="result-item">
+                        <div class="result-label">
+                            <i data-lucide="layers"></i> Global Theme
+                        </div>
+                        <div class="result-value" id="resTheme">-</div>
+                    </div>
+                    
+                    <div class="result-item">
+                        <div class="result-label">
+                            <i data-lucide="activity"></i> Sentiment
+                        </div>
+                        <div class="result-value" id="resSentiment">-</div>
+                    </div>
+                    
+                    <div class="result-item">
+                        <div class="result-label">
+                            <i data-lucide="alert-triangle"></i> Underlying Friction
+                        </div>
+                        <div class="result-value" id="resFriction">-</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>Blinkit Discovery Engine | Built for the 2026 UX Research initiative.</p>
+            <p class="muted">Powered by Node.js, Google Gemini Pro, and Vanilla JS.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Initialize Icons
+        lucide.createIcons();
+
+        document.getElementById('analyzeBtn').addEventListener('click', async () => {
+            const reviewText = document.getElementById('reviewText').value.trim();
+            const btn = document.getElementById('analyzeBtn');
+            const btnText = btn.querySelector('.btn-text');
+            const btnIcon = btn.querySelector('.btn-icon');
+            const loader = document.getElementById('btnLoader');
+            const resultsSection = document.getElementById('resultsSection');
+            const errorMsg = document.getElementById('errorMessage');
+
+            if (!reviewText) {
+                errorMsg.textContent = 'Please enter a review to analyze.';
+                errorMsg.style.display = 'block';
+                return;
+            }
+
+            // Reset UI
+            errorMsg.style.display = 'none';
+            resultsSection.classList.remove('active');
+            btn.disabled = true;
+            btnText.textContent = 'Analyzing...';
+            btnIcon.style.display = 'none';
+            loader.style.display = 'block';
+
+            try {
+                const response = await fetch('/api/analyze', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ review: reviewText })
+                });
+
+                const data = await response.json();
+
+                if (!response.ok) {
+                    throw new Error(data.error || 'Failed to analyze review');
+                }
+
+                // Populate Results
+                document.getElementById('resTheme').textContent = data.theme;
+                
+                const sentimentEl = document.getElementById('resSentiment');
+                sentimentEl.textContent = data.sentiment;
+                sentimentEl.className = 'result-value';
+                if (data.sentiment.toLowerCase().includes('positive')) sentimentEl.classList.add('sentiment-positive');
+                else if (data.sentiment.toLowerCase().includes('negative')) sentimentEl.classList.add('sentiment-negative');
+                else sentimentEl.classList.add('sentiment-neutral');
+
+                document.getElementById('resFriction').textContent = data.friction;
+
+                // Show Results
+                resultsSection.classList.add('active');
+
+            } catch (error) {
+                console.error(error);
+                errorMsg.textContent = error.message || 'An error occurred during analysis.';
+                errorMsg.style.display = 'block';
+            } finally {
+                // Restore Button State
+                btn.disabled = false;
+                btnText.textContent = 'Analyze Review';
+                btnIcon.style.display = 'inline-block';
+                loader.style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html>
