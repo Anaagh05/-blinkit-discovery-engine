@@ -57,6 +57,126 @@
 
     <main>
 
+        <!-- How It Works: Pipeline -->
+        <section class="section bg-alt" id="pipeline">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i data-lucide="git-branch"></i> How the Engine Works</h2>
+                    <p>A 4-stage automated pipeline powered by Node.js and Google Gemini Pro, from raw data to validated insights.</p>
+                </div>
+                <style>
+                    .pipeline-steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.5rem; margin-top: 2rem; }
+                    .pipe-step { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; position: relative; }
+                    .pipe-step::after { content: '→'; position: absolute; right: -1.1rem; top: 50%; transform: translateY(-50%); font-size: 1.5rem; color: var(--primary); font-weight: 700; }
+                    .pipe-step:last-child::after { display: none; }
+                    .pipe-num { display: inline-flex; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 50%; background: var(--primary); color: white; font-weight: 700; font-size: 0.85rem; margin-bottom: 0.75rem; }
+                    .pipe-step h4 { font-size: 1.05rem; margin-bottom: 0.5rem; color: var(--text-primary); }
+                    .pipe-step p { font-size: 0.85rem; color: var(--text-secondary); line-height: 1.5; }
+                    .pipe-step .pipe-tech { font-size: 0.75rem; color: var(--primary); font-family: 'JetBrains Mono', monospace; margin-top: 0.75rem; background: rgba(232,149,0,0.08); padding: 0.3rem 0.6rem; border-radius: 4px; display: inline-block; }
+                    @media (max-width: 900px) { .pipeline-steps { grid-template-columns: repeat(2, 1fr); } .pipe-step::after { display: none; } }
+                    @media (max-width: 600px) { .pipeline-steps { grid-template-columns: 1fr; } }
+                </style>
+                <div class="pipeline-steps">
+                    <div class="pipe-step">
+                        <div class="pipe-num">1</div>
+                        <h4>Multi-Source Scraping</h4>
+                        <p>Automated scrapers gather 2,313 reviews from Play Store, App Store, Reddit, Facebook, Instagram, and other platforms to ensure broad coverage.</p>
+                        <span class="pipe-tech">Node.js + Cheerio</span>
+                    </div>
+                    <div class="pipe-step">
+                        <div class="pipe-num">2</div>
+                        <h4>Sentiment Analysis</h4>
+                        <p>Each review is individually classified by Gemini 2.5 Flash with a sentiment label, relevance score, and category tag in structured JSON.</p>
+                        <span class="pipe-tech">Gemini 2.5 Flash</span>
+                    </div>
+                    <div class="pipe-step">
+                        <div class="pipe-num">3</div>
+                        <h4>Theme Extraction</h4>
+                        <p>Gemini 2.5 Pro analyzes the full corpus holistically, identifying 4 global behavioral themes using its massive context window.</p>
+                        <span class="pipe-tech">Gemini 2.5 Pro</span>
+                    </div>
+                    <div class="pipe-step">
+                        <div class="pipe-num">4</div>
+                        <h4>Insight Synthesis</h4>
+                        <p>Themes are mapped against 8 research questions. Cross-source validation ensures 92% agreement across platforms before finalizing insights.</p>
+                        <span class="pipe-tech">Gemini 2.5 Pro + Validation</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Key Findings at a Glance -->
+        <section class="section" id="findings">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i data-lucide="sparkles"></i> Key Findings at a Glance</h2>
+                    <p>What the data reveals about shopping behavior on Blinkit — distilled from 2,313 reviews across 6 platforms.</p>
+                </div>
+                <style>
+                    .findings-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.5rem; margin-top: 2rem; }
+                    .finding-card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; transition: all 0.2s; }
+                    .finding-card:hover { border-color: var(--primary); box-shadow: var(--shadow-md); }
+                    .finding-card .finding-icon { width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 0.75rem; }
+                    .finding-card h4 { font-size: 1rem; color: var(--text-primary); margin-bottom: 0.5rem; }
+                    .finding-card p { font-size: 0.9rem; color: var(--text-secondary); line-height: 1.5; margin: 0; }
+                    .finding-card .finding-stat { font-family: 'JetBrains Mono', monospace; font-size: 1.5rem; font-weight: 700; color: var(--primary); margin-bottom: 0.25rem; }
+                    .finding-card blockquote { margin: 0.75rem 0 0; padding-left: 0.75rem; border-left: 2px solid var(--border); font-style: italic; font-size: 0.85rem; color: var(--text-secondary); }
+                    @media (max-width: 768px) { .findings-grid { grid-template-columns: 1fr; } }
+                </style>
+                <div class="findings-grid">
+                    <div class="finding-card">
+                        <div class="finding-stat">72%</div>
+                        <h4>Users Repeat-Buy the Same Categories</h4>
+                        <p>The "Reorder" button creates a behavioral trap — users default to repurchasing familiar items (milk, bread, chips) without ever browsing alternatives.</p>
+                        <blockquote>"Reorder button is a trap. I never try new chips because it's too easy to just buy Lays again."</blockquote>
+                    </div>
+                    <div class="finding-card">
+                        <div class="finding-stat">850+</div>
+                        <h4>Reviews Cite Navigation Friction</h4>
+                        <p>Dense grids, promotional clutter, and lack of curated categories make organic product exploration exhausting — driving users back to search-only behavior.</p>
+                        <blockquote>"The UI is too cluttered with irrelevant promos to discover anything organically."</blockquote>
+                    </div>
+                    <div class="finding-card">
+                        <div class="finding-stat">~10s</div>
+                        <h4>Average Session for Habitual Buyers</h4>
+                        <p>Users with established routines complete their entire checkout in under 30 seconds, often in just 10 — never scrolling past the reorder screen.</p>
+                        <blockquote>"I literally open the app, click reorder from my history, and check out in 10 seconds."</blockquote>
+                    </div>
+                    <div class="finding-card">
+                        <div class="finding-stat">40%</div>
+                        <h4>Higher Experimentation at Night</h4>
+                        <p>Late-night (post 10 PM) and weekend shoppers show significantly higher willingness to explore unfamiliar snack and beverage categories.</p>
+                        <blockquote>"My morning grocery orders are strict, but Friday nights are for experimenting."</blockquote>
+                    </div>
+                    <div class="finding-card">
+                        <div class="finding-stat">920</div>
+                        <h4>Users Want Personalized Recommendations</h4>
+                        <p>Product discovery is driven by external social media rather than the app itself. Users explicitly want suggestions based on their purchase history.</p>
+                        <blockquote>"Blinkit's internal recommendations feel random. I just use search for things my friends recommend."</blockquote>
+                    </div>
+                    <div class="finding-card">
+                        <div class="finding-stat">0</div>
+                        <h4>Trust Signals for New Categories</h4>
+                        <p>Users need freshness guarantees, expiry dates, and product reviews before trying premium or unfamiliar product categories — none of which exist today.</p>
+                        <blockquote>"Wanted to try the beauty section but there are no reviews or detailed expiry info."</blockquote>
+                    </div>
+                    <div class="finding-card">
+                        <div class="finding-stat">890</div>
+                        <h4>Reviews Flag Search &amp; Stock Issues</h4>
+                        <p>The most consistent frustration is finding items out of stock at checkout, plus irrelevant search results that fail to surface the right products.</p>
+                        <blockquote>"Nothing is more annoying than building a cart and finding out half the items are out of stock."</blockquote>
+                    </div>
+                    <div class="finding-card">
+                        <div class="finding-stat">735</div>
+                        <h4>Demand for Price Comparison Tools</h4>
+                        <p>Users consistently want unit-pricing comparisons and a personalized discount tab so they can confidently try substitutes and new brands.</p>
+                        <blockquote>"Why can't I see the price per 100g to compare different brands of detergent?"</blockquote>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Navigation Hub -->
         <style>
             .hub-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 2rem; padding: 4rem 2rem; max-width: 1000px; margin: 0 auto; }
             .hub-card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 2rem; display: flex; flex-direction: column; gap: 1rem; text-decoration: none; color: inherit; transition: all 0.2s; box-shadow: var(--shadow-sm); }
@@ -77,7 +197,7 @@
             <a href="themes.html" class="hub-card">
                 <i data-lucide="layers"></i>
                 <h3>AI Themes</h3>
-                <p>Explore the global behavioral patterns and themes extracted by Gemini 1.5 Pro.</p>
+                <p>Explore the global behavioral patterns and themes extracted by Gemini 2.5 Pro.</p>
             </a>
             <a href="insights.html" class="hub-card">
                 <i data-lucide="lightbulb"></i>

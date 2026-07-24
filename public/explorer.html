@@ -56,6 +56,57 @@
     
 
     <main>
+<!-- Data Gathering Methodology -->
+        <section class="section" style="padding-bottom: 0;">
+            <div class="container">
+                <div class="section-header">
+                    <h2><i data-lucide="download-cloud"></i> How Data Is Gathered</h2>
+                    <p>Our multi-source scraping pipeline pulls user feedback from 6 platforms for maximum coverage and bias reduction.</p>
+                </div>
+                <style>
+                    .source-method-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-top: 1.5rem; }
+                    .src-card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 1.25rem; text-align: center; }
+                    .src-card h4 { font-size: 0.95rem; color: var(--text-primary); margin-bottom: 0.25rem; }
+                    .src-card .src-count { font-family: 'JetBrains Mono', monospace; font-size: 1.4rem; font-weight: 700; color: var(--primary); }
+                    .src-card p { font-size: 0.8rem; color: var(--text-secondary); margin: 0.5rem 0 0; line-height: 1.4; }
+                    @media (max-width: 768px) { .source-method-grid { grid-template-columns: repeat(2, 1fr); } }
+                    @media (max-width: 500px) { .source-method-grid { grid-template-columns: 1fr; } }
+                </style>
+                <div class="source-method-grid">
+                    <div class="src-card">
+                        <div class="src-count" id="srcPlay">—</div>
+                        <h4>Google Play Store</h4>
+                        <p>Star ratings + text reviews. The largest single corpus, skewing toward frequent users.</p>
+                    </div>
+                    <div class="src-card">
+                        <div class="src-count" id="srcApp">—</div>
+                        <h4>Apple App Store</h4>
+                        <p>iOS-specific feedback. Often more detailed and sentiment-rich than Play Store.</p>
+                    </div>
+                    <div class="src-card">
+                        <div class="src-count" id="srcReddit">—</div>
+                        <h4>Reddit</h4>
+                        <p>Community discussions. More nuanced opinions and edge-case frustrations surface here.</p>
+                    </div>
+                    <div class="src-card">
+                        <div class="src-count" id="srcFacebook">—</div>
+                        <h4>Facebook</h4>
+                        <p>Public page comments and post reactions. Captures a broader demographic slice.</p>
+                    </div>
+                    <div class="src-card">
+                        <div class="src-count" id="srcInstagram">—</div>
+                        <h4>Instagram</h4>
+                        <p>Comment threads on Blinkit posts. Reveals brand perception and discovery triggers.</p>
+                    </div>
+                    <div class="src-card">
+                        <div class="src-count" id="srcOthers">—</div>
+                        <h4>Others (Quora, Blogs, X)</h4>
+                        <p>Long-form opinions and niche platforms for cross-validation of major themes.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 <!-- Source Explorer -->
         <section id="explorer" class="section bg-alt">
             <div class="container">

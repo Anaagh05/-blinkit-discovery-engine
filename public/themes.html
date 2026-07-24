@@ -56,12 +56,38 @@
     
 
     <main>
+<!-- How Themes Are Identified -->
+        <section class="section" style="padding-bottom: 0;">
+            <div class="container">
+                <style>
+                    .method-box { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 2rem; margin-top: 1rem; }
+                    .method-box h3 { color: var(--primary); margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem; }
+                    .method-box ol { color: var(--text-secondary); line-height: 1.8; padding-left: 1.2rem; margin: 0; }
+                    .method-box ol li { margin-bottom: 0.5rem; }
+                    .method-box strong { color: var(--text-primary); }
+                </style>
+                <div class="section-header">
+                    <h2><i data-lucide="cpu"></i> How Themes Are Identified</h2>
+                    <p>Our theme extraction process uses a holistic LLM approach — not keyword matching — to find deep behavioral patterns.</p>
+                </div>
+                <div class="method-box">
+                    <h3><i data-lucide="workflow" style="width:20px;"></i> Theme Extraction Pipeline</h3>
+                    <ol>
+                        <li><strong>Full-corpus ingestion:</strong> All 2,313 sentiment-tagged reviews are loaded into Gemini 2.5 Pro's extended context window in a single prompt.</li>
+                        <li><strong>Holistic clustering:</strong> The model identifies recurring behavioral patterns across all sources simultaneously — not per-review, but as emergent clusters.</li>
+                        <li><strong>Question mapping:</strong> Each extracted theme is mapped to the 8 research questions it helps answer (shown below each theme).</li>
+                        <li><strong>Cross-source validation:</strong> Only themes that appear across ≥2 independent platforms with 92%+ agreement are retained.</li>
+                    </ol>
+                </div>
+            </div>
+        </section>
+
 <!-- AI Theme Clusters -->
         <section id="themes" class="section bg-alt">
             <div class="container">
                 <div class="section-header">
                     <h2><i data-lucide="pie-chart"></i> Global Themes Extracted</h2>
-                    <p>Gemini 1.5 Pro analyzed the entire dataset to identify these overarching behavioral patterns.</p>
+                    <p>Gemini 2.5 Pro analyzed the entire dataset to identify these overarching behavioral patterns.</p>
                 </div>
                 <div class="themes-grid" id="themesGrid">
                     <!-- Populated via JS -->

@@ -38,5 +38,20 @@ document.addEventListener('DOMContentLoaded', () => {
                 renderReviews(e.target.dataset.filter);
             });
         });
+
+        // Populate source count cards
+        const stats = DISCOVERY_DATA.sourceStats || {};
+        const mapping = {
+            'srcPlay': stats.play_store || 0,
+            'srcApp': stats.app_store || 0,
+            'srcReddit': stats.reddit || 0,
+            'srcFacebook': stats.facebook || 0,
+            'srcInstagram': stats.instagram || 0,
+            'srcOthers': (stats.quora || 0) + (stats.blog || 0) + (stats.twitter || 0) + (stats.others || 0)
+        };
+        Object.keys(mapping).forEach(id => {
+            const el = document.getElementById(id);
+            if (el) el.textContent = mapping[id].toLocaleString();
+        });
     }
 });
