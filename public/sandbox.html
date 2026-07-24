@@ -173,6 +173,69 @@
             font-weight: 500;
         }
 
+        .stats-badge {
+            display: inline-block;
+            background: rgba(16, 185, 129, 0.1);
+            color: #10b981;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            margin-top: 1rem;
+            border: 1px solid rgba(16, 185, 129, 0.2);
+        }
+        .sample-buttons {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 0.75rem;
+            flex-wrap: wrap;
+        }
+        .btn-sample {
+            background: var(--bg-color);
+            border: 1px solid var(--border);
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .btn-sample:hover {
+            background: rgba(232, 149, 0, 0.1);
+            color: var(--primary);
+            border-color: var(--primary);
+        }
+        .json-toggle {
+            margin-top: 1.5rem;
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0;
+            font-weight: 500;
+        }
+        .json-toggle:hover { color: var(--primary); }
+        .raw-json-container {
+            display: none;
+            margin-top: 1rem;
+            background: #1e293b;
+            border-radius: 8px;
+            padding: 1rem;
+            overflow-x: auto;
+            text-align: left;
+        }
+        .raw-json-container.active { display: block; }
+        .raw-json {
+            color: #e2e8f0;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.85rem;
+            margin: 0;
+            white-space: pre-wrap;
+        }
     </style>
 </head>
 <body>
@@ -206,9 +269,15 @@
                 <div class="sandbox-header">
                     <h2>Try the Engine</h2>
                     <p>Enter a raw customer review to analyze</p>
+                    <div class="stats-badge">Engine Trained on 2,313 Historical Reviews | Live Single-Inference Mode</div>
                 </div>
                 
                 <div class="input-group">
+                    <div class="sample-buttons">
+                        <button class="btn-sample" onclick="loadSample('ui')">Try Sample: UI Friction</button>
+                        <button class="btn-sample" onclick="loadSample('habit')">Try Sample: Repetitive Orders</button>
+                        <button class="btn-sample" onclick="loadSample('price')">Try Sample: Price Sensitivity</button>
+                    </div>
                     <textarea id="reviewText" class="review-input" placeholder="e.g., 'I love Blinkit for milk, but I never look at the beauty section because I don't trust the expiration dates.'"></textarea>
                 </div>
                 
@@ -240,6 +309,14 @@
                             <i data-lucide="alert-triangle"></i> Underlying Friction
                         </div>
                         <div class="result-value" id="resFriction">-</div>
+                    </div>
+
+                    <button id="jsonToggleBtn" class="json-toggle">
+                        <i data-lucide="code"></i> View Raw JSON Output
+                    </button>
+                    
+                    <div id="rawJsonContainer" class="raw-json-container">
+                        <pre id="rawJson" class="raw-json"></pre>
                     </div>
                 </div>
             </div>
@@ -305,6 +382,9 @@
 
                 document.getElementById('resFriction').textContent = data.friction;
 
+                // Populate Raw JSON
+                document.getElementById('rawJson').textContent = JSON.stringify(data, null, 2);
+
                 // Show Results
                 resultsSection.classList.add('active');
 
@@ -320,6 +400,24 @@
                 loader.style.display = 'none';
             }
         });
+
+        // Toggle JSON visibility
+        document.getElementById('jsonToggleBtn').addEventListener('click', () => {
+            const container = document.getElementById('rawJsonContainer');
+            container.classList.toggle('active');
+        });
+
+        // Sample logic
+        function loadSample(type) {
+            const input = document.getElementById('reviewText');
+            if (type === 'ui') {
+                input.value = "I wanted to try out some new snacks but finding anything new is a chore. The categories are a complete mess and I just gave up and ordered my usual chips.";
+            } else if (type === 'habit') {
+                input.value = "Blinkit is great for my daily milk and bread delivery. I literally open the app, click reorder from my history, and check out in 10 seconds. Never even scroll down.";
+            } else if (type === 'price') {
+                input.value = "I'd love to buy imported fruits on Blinkit since delivery is so fast, but I can't filter by discounts easily and I'm not risking a premium price without seeing the product.";
+            }
+        }
     </script>
 </body>
 </html>
