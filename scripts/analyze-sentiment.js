@@ -58,9 +58,9 @@ async function analyzeSentiment() {
         console.log("WARNING: Valid GEMINI_API_KEY not found in .env. Falling back to robust offline mock generator for sentiment.");
     }
 
-    // Using gemini-2.5-flash for fast batch processing
+    // Using gemini-flash-latest for fast batch processing
     const model = apiWorks ? genAI.getGenerativeModel({ 
-        model: "gemini-2.5-flash", 
+        model: "gemini-flash-latest", 
         generationConfig: { responseMimeType: "application/json" } 
     }) : null;
 

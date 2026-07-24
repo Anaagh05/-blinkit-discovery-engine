@@ -93,7 +93,7 @@ async function extractThemes() {
     let finalThemes = [];
 
     if (apiWorks) {
-        const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro", generationConfig: { responseMimeType: "application/json" } });
+        const model = genAI.getGenerativeModel({ model: "gemini-flash-latest", generationConfig: { responseMimeType: "application/json" } });
         const prompt = `
 You are analyzing Blinkit user reviews to understand why users don't explore new product categories.
 Input reviews:
