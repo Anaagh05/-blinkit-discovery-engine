@@ -67,10 +67,12 @@
             @media (max-width: 768px) { .hub-grid { grid-template-columns: 1fr; } }
         </style>
         <div class="hub-grid">
-            <a href="sandbox.html" class="hub-card" style="border-color: var(--primary);">
-                <i data-lucide="play-circle"></i>
-                <h3>Interactive Sandbox</h3>
-                <p>Test out the Gemini workflow live! Paste a review and see the AI classification in real-time.</p>
+            <a href="sandbox.html" class="hub-card" style="border-color: var(--primary); grid-column: 1 / -1; flex-direction: row; align-items: center; justify-content: center; text-align: center; gap: 2rem; padding: 3rem;">
+                <i data-lucide="play-circle" style="width: 48px; height: 48px;"></i>
+                <div>
+                    <h3 style="font-size: 2rem;">Interactive Sandbox</h3>
+                    <p style="font-size: 1.1rem; margin-top: 0.5rem;">Test out the Gemini workflow live! Paste a review and see the AI classification in real-time.</p>
+                </div>
             </a>
             <a href="themes.html" class="hub-card">
                 <i data-lucide="layers"></i>
